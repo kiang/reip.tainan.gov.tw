@@ -1,0 +1,2020 @@
+{
+    "@attributes": {
+        "version": "1.0.0"
+    },
+    "Service": {
+        "Name": "WFS",
+        "Title": "GeoServer Web Feature Service",
+        "Abstract": "This is the reference implementation of WFS 1.0.0 and WFS 1.1.0, supports all WFS operations including Transaction.",
+        "Keywords": "WFS, WMS, GEOSERVER",
+        "OnlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs",
+        "Fees": "NONE",
+        "AccessConstraints": "NONE"
+    },
+    "Capability": {
+        "Request": {
+            "GetCapabilities": {
+                "DCPType": [
+                    {
+                        "HTTP": {
+                            "Get": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs?request=GetCapabilities"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "HTTP": {
+                            "Post": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "DescribeFeatureType": {
+                "SchemaDescriptionLanguage": {
+                    "XMLSCHEMA": {}
+                },
+                "DCPType": [
+                    {
+                        "HTTP": {
+                            "Get": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs?request=DescribeFeatureType"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "HTTP": {
+                            "Post": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "GetFeature": {
+                "ResultFormat": {
+                    "KML": {},
+                    "GML2": {},
+                    "GML3": {},
+                    "SHAPE-ZIP": {},
+                    "CSV": {},
+                    "JSON": {}
+                },
+                "DCPType": [
+                    {
+                        "HTTP": {
+                            "Get": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs?request=GetFeature"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "HTTP": {
+                            "Post": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "Transaction": {
+                "DCPType": [
+                    {
+                        "HTTP": {
+                            "Get": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs?request=Transaction"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "HTTP": {
+                            "Post": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "LockFeature": {
+                "DCPType": [
+                    {
+                        "HTTP": {
+                            "Get": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs?request=LockFeature"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "HTTP": {
+                            "Post": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "GetFeatureWithLock": {
+                "ResultFormat": {
+                    "GML2": {}
+                },
+                "DCPType": [
+                    {
+                        "HTTP": {
+                            "Get": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs?request=GetFeatureWithLock"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "HTTP": {
+                            "Post": {
+                                "@attributes": {
+                                    "onlineResource": "https:\/\/reip.tainan.gov.tw\/geoserver\/wfs"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "FeatureTypeList": {
+        "Operations": {
+            "Query": {},
+            "Insert": {},
+            "Update": {},
+            "Delete": {},
+            "Lock": {}
+        },
+        "FeatureType": [
+            {
+                "Name": "GHB:A102",
+                "Title": "A102",
+                "Abstract": "特定水土保持區範圍",
+                "Keywords": "features, A102, 特定水土保持區範圍, 特定水土保持區範圍",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.37307227377805",
+                        "miny": "22.140113119758137",
+                        "maxx": "121.93611855468268",
+                        "maxy": "25.14661404375036"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A103",
+                "Title": "A103",
+                "Abstract": "中央管河川區域",
+                "Keywords": "features, A103, 中央管河川區域",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.04263218200109",
+                        "miny": "22.055658872685775",
+                        "maxx": "121.84358009275299",
+                        "maxy": "25.233913660731556"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A105",
+                "Title": "A105",
+                "Abstract": "中央管區域排水設施範圍",
+                "Keywords": "features, A105, 中央管區域排水設施範圍",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.14451728355473",
+                        "miny": "22.716575631502437",
+                        "maxx": "121.79901669585912",
+                        "maxy": "25.127738165292467"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A107",
+                "Title": "A107",
+                "Abstract": "自然保留區B5",
+                "Keywords": "features, A107, 自然保留區B5",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.50022230309187",
+                        "miny": "21.959223838233818",
+                        "maxx": "121.86175087652381",
+                        "maxy": "25.167672820383604"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A108",
+                "Title": "A108",
+                "Abstract": "野生動物保護區",
+                "Keywords": "features, A108, 野生動物保護區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.3213926782196",
+                        "miny": "23.001692736790524",
+                        "maxx": "122.1160862653234",
+                        "maxy": "26.352358477798184"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A109",
+                "Title": "A109",
+                "Abstract": "野生動物重要棲息環境",
+                "Keywords": "features, A109, 野生動物重要棲息環境",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.32990238287879",
+                        "miny": "22.300084611109714",
+                        "maxx": "122.11608626331993",
+                        "maxy": "26.35235847781379"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A110",
+                "Title": "A110",
+                "Abstract": "自然保護區",
+                "Keywords": "features, A110, 自然保護區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.56708219307632",
+                        "miny": "22.356288890003537",
+                        "maxx": "121.26452232716794",
+                        "maxy": "24.4858668442151"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A111",
+                "Title": "A111",
+                "Abstract": "一級海岸保護區",
+                "Keywords": "features, A111, 一級海岸保護區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.09062686392164",
+                        "miny": "21.875205666823252",
+                        "maxx": "122.00809965523375",
+                        "maxy": "25.298969757542956"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A120",
+                "Title": "A120",
+                "Abstract": "飲用水水源水質保護區",
+                "Keywords": "A120, features, 飲用水水源水質保護區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.2290741927358",
+                        "miny": "22.126398509151045",
+                        "maxx": "121.9214643425501",
+                        "maxy": "25.261302654961895"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A121",
+                "Title": "A121",
+                "Abstract": "水庫集水區",
+                "Keywords": "features, A121, 水庫集水區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.22949412269199",
+                        "miny": "21.961288085609166",
+                        "maxx": "121.86287005967215",
+                        "maxy": "26.38782760379122"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A12301",
+                "Title": "A12301",
+                "Abstract": "全台保安林分布概略圖",
+                "Keywords": "features, A12301, 全台保安林分布概略圖",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.48231157793859",
+                        "miny": "21.8977251074748",
+                        "maxx": "122.00188164979546",
+                        "maxy": "25.295766287307572"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A12302",
+                "Title": "A12302",
+                "Abstract": "國有林事業區",
+                "Keywords": "features, A12302, 國有林事業區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.34241974121475",
+                        "miny": "21.897443640388953",
+                        "maxx": "122.00176236494245",
+                        "maxy": "25.006674214419334"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A12303",
+                "Title": "A12303",
+                "Abstract": "大專院校實驗林地",
+                "Keywords": "features, A12303, 大專院校實驗林地",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.35702290705046",
+                        "miny": "22.053568066632828",
+                        "maxx": "121.68756981047395",
+                        "maxy": "24.899492843006254"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A12401",
+                "Title": "A12401",
+                "Abstract": "台北市溫泉露頭一定範圍",
+                "Keywords": "features, A12401, 台北市溫泉露頭一定範圍",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "121.51153925253249",
+                        "miny": "25.137715880344807",
+                        "maxx": "121.56257540432114",
+                        "maxy": "25.177882429415053"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A12402",
+                "Title": "A12402",
+                "Abstract": "宜蘭縣溫泉露頭",
+                "Keywords": "features, A12402, 宜蘭縣溫泉露頭",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "121.43176634972204",
+                        "miny": "24.421685058135353",
+                        "maxx": "121.95702621162232",
+                        "maxy": "24.844370390705823"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A12403",
+                "Title": "A12403",
+                "Abstract": "新北市界樁線",
+                "Keywords": "A12403, features, 新北市界樁線",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "121.55009598522312",
+                        "miny": "24.860381199804557",
+                        "maxx": "121.64424988414828",
+                        "maxy": "25.222220278993472"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A12404",
+                "Title": "A12404",
+                "Abstract": "新北市界樁點",
+                "Keywords": "features, A12404, 新北市界樁點",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "121.55009773084744",
+                        "miny": "24.86038507707399",
+                        "maxx": "121.64424542835467",
+                        "maxy": "25.22222045624872"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A125",
+                "Title": "A125",
+                "Abstract": "漁業資源保育區\r\n水產動植物繁殖保育區",
+                "Keywords": "features, A125, 漁業資源保育區, 水產動植物繁殖保育區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.28875000000005",
+                        "miny": "22.030972000000077",
+                        "maxx": "122.00018611100006",
+                        "maxy": "25.224522222000076"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A20101",
+                "Title": "A20101",
+                "Abstract": "地質敏感地區活動斷層",
+                "Keywords": "features, A20101, 地質敏感地區活動斷層",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.30050823563764",
+                        "miny": "22.709259903236454",
+                        "maxx": "121.63702646694149",
+                        "maxy": "24.801263973230068"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A20102",
+                "Title": "A20102",
+                "Abstract": "地質敏感區山崩與地滑",
+                "Keywords": "features, A20102, 地質敏感區山崩與地滑",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.26018363755665",
+                        "miny": "21.911358742252165",
+                        "maxx": "122.00565167678415",
+                        "maxy": "25.295014400141085"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A203",
+                "Title": "A203",
+                "Abstract": "嚴重地層下陷地區",
+                "Keywords": "features, A203, 嚴重地層下陷地區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.0984493953976",
+                        "miny": "22.33854771360748",
+                        "maxx": "120.63620836080511",
+                        "maxy": "23.99638740038804"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A204",
+                "Title": "A204",
+                "Abstract": "海堤區域線",
+                "Keywords": "features, A204, 海堤區域線",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.28007367083504",
+                        "miny": "22.017443751304697",
+                        "maxx": "121.97038243359128",
+                        "maxy": "26.225379003231865"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A206",
+                "Title": "A206",
+                "Abstract": "山坡地",
+                "Keywords": "features, A206, 山坡地",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.25142960606411",
+                        "miny": "21.895053359385372",
+                        "maxx": "122.00707852641233",
+                        "maxy": "25.297862607559132"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A207",
+                "Title": "A207",
+                "Abstract": "土石流潛勢溪流",
+                "Keywords": "features, A207, 土石流潛勢溪流",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.2715139412842",
+                        "miny": "21.986916523860234",
+                        "maxx": "121.99131894887381",
+                        "maxy": "25.2683604432455"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A209",
+                "Title": "A209",
+                "Abstract": "沿海一般保護區",
+                "Keywords": "features, A209, 沿海一般保護區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.98824025652847",
+                        "miny": "22.04683791967931",
+                        "maxx": "121.85008766473273",
+                        "maxy": "25.309479586098345"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A217",
+                "Title": "A217",
+                "Abstract": "地質敏感區地質遺跡",
+                "Keywords": "features, A217, 地質敏感區地質遺跡",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.43727611542597",
+                        "miny": "22.665425155388785",
+                        "maxx": "122.0062307669312",
+                        "maxy": "25.131183986848757"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A219",
+                "Title": "A219",
+                "Abstract": "水庫集水區(非供家用或非供公共給水)",
+                "Keywords": "features, A219, 水庫集水區(非供家用或非供公共給水)",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.2804519763084",
+                        "miny": "21.938976873044126",
+                        "maxx": "121.8730623906332",
+                        "maxy": "26.38608556950473"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A220",
+                "Title": "A220",
+                "Abstract": "自來水水質水量保護區",
+                "Keywords": "features, A220, 自來水水質水量保護區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.60788343304084",
+                        "miny": "22.119537258512604",
+                        "maxx": "121.92688816044779",
+                        "maxy": "25.26098553180418"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22201",
+                "Title": "A22201",
+                "Abstract": "106現存礦區範圍圖",
+                "Keywords": "features, A22201, 106現存礦區範圍圖",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06292881342542",
+                        "miny": "22.497130101331066",
+                        "maxx": "121.88941160579472",
+                        "maxy": "25.256287867315308"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22202",
+                "Title": "A22202",
+                "Abstract": "煤礦坑道",
+                "Keywords": "A22202, features, 煤礦坑道",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.85397384539368",
+                        "miny": "24.450496886129756",
+                        "maxx": "121.89294648391288",
+                        "maxy": "25.203577136866222"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22203",
+                "Title": "A22203",
+                "Abstract": "礦業保留地",
+                "Keywords": "features, A22203, 礦業保留地",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.26185484167982",
+                        "miny": "22.0015382171143",
+                        "maxx": "121.2395055575737",
+                        "maxy": "24.76570344959064"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A223",
+                "Title": "A223",
+                "Abstract": "地質敏感區地下水補注區",
+                "Keywords": "features, A223, 地質敏感區地下水補注區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.2546123391293",
+                        "miny": "22.399543005371193",
+                        "maxx": "121.7506259485167",
+                        "maxy": "24.98531610107718"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22401",
+                "Title": "A22401",
+                "Abstract": "人工魚礁區",
+                "Keywords": "features, A22401, 人工魚礁區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.4703586500001",
+                        "miny": "21.936637276000056",
+                        "maxx": "121.96666670000002",
+                        "maxy": "25.266692480000074"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22402",
+                "Title": "A22402",
+                "Abstract": "保護礁區",
+                "Keywords": "features, A22402, 保護礁區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.47767344700014",
+                        "miny": "21.97434011300004",
+                        "maxx": "121.97194671900024",
+                        "maxy": "25.19454877600009"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A225",
+                "Title": "A225",
+                "Abstract": "氣象法禁止限制建築地區",
+                "Keywords": "features, A225, 氣象法禁止限制建築地區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.33686471483134",
+                        "miny": "21.875026524863358",
+                        "maxx": "121.87158113595139",
+                        "maxy": "26.173364036832684"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A226",
+                "Title": "A226",
+                "Abstract": "電信法之禁止或限制建築地區",
+                "Keywords": "features, A226, 電信法之禁止或限制建築地區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "121.54719156859576",
+                        "miny": "25.144407883694267",
+                        "maxx": "121.55339220548089",
+                        "maxy": "25.14988774291981"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22701",
+                "Title": "A22701",
+                "Abstract": "台北機場禁限建",
+                "Keywords": "features, A22701, 台北機場禁限建",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "121.38943265090542",
+                        "miny": "25.01553311075642",
+                        "maxx": "121.7155933320488",
+                        "maxy": "25.095691979272612"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22702",
+                "Title": "A22702",
+                "Abstract": "台東機場禁限建",
+                "Keywords": "features, A22702, 台東機場禁限建",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "121.03493492562912",
+                        "miny": "22.66255301588584",
+                        "maxx": "121.16843135421944",
+                        "maxy": "22.82788096443689"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22703",
+                "Title": "A22703",
+                "Abstract": "金門機場禁限建",
+                "Keywords": "features, A22703, 金門機場禁限建",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.20678008803853",
+                        "miny": "24.34339766478278",
+                        "maxx": "118.4311295119494",
+                        "maxy": "24.47456308280998"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22704",
+                "Title": "A22704",
+                "Abstract": "恆春機場禁限建",
+                "Keywords": "features, A22704, 恆春機場禁限建",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.67644900355074",
+                        "miny": "21.9898671957986",
+                        "maxx": "120.78012083085265",
+                        "maxy": "22.09028928920204"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22705",
+                "Title": "A22705",
+                "Abstract": "桃園機場禁限建",
+                "Keywords": "features, A22705, 桃園機場禁限建",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "121.08752104108488",
+                        "miny": "24.956122245408928",
+                        "maxx": "121.37811705872332",
+                        "maxy": "25.201686260528675"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A22706",
+                "Title": "A22706",
+                "Abstract": "高雄機場禁限建",
+                "Keywords": "features, A22706, 高雄機場禁限建",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.18820019024152",
+                        "miny": "22.483827488731826",
+                        "maxx": "120.51261525984907",
+                        "maxy": "22.604951502823717"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A228",
+                "Title": "A228",
+                "Abstract": "航空噪音測站",
+                "Keywords": "features, A228, 航空噪音測站",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.3429794740873",
+                        "miny": "22.54031156707057",
+                        "maxx": "121.61083249613716",
+                        "maxy": "25.102697545913013"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A229",
+                "Title": "A229",
+                "Abstract": "反應器禁制低密度人口區",
+                "Keywords": "features, A229",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.72721671172202",
+                        "miny": "21.937381074149698",
+                        "maxx": "121.68874951887636",
+                        "maxy": "25.307125354209298"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A230",
+                "Title": "A230",
+                "Abstract": "高速公路兩側禁建限建地區",
+                "Keywords": "A230, features, 高速公路兩側禁建限建地區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.19270295795658",
+                        "miny": "22.43803499353092",
+                        "maxx": "121.83287080407246",
+                        "maxy": "25.155171800266743"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A232",
+                "Title": "A232",
+                "Abstract": "鐵路兩側禁建限建範圍",
+                "Keywords": "features, A232, 鐵路兩側禁建限建範圍",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.27134201448884",
+                        "miny": "22.67865266608542",
+                        "maxx": "121.62073841299167",
+                        "maxy": "25.06004800455108"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A_A01",
+                "Title": "A_A01",
+                "Abstract": "升壓站",
+                "Keywords": "features, A_A01, 升壓站",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06056666416445",
+                        "miny": "23.09318778366713",
+                        "maxx": "120.40727166647446",
+                        "maxy": "23.350053644991178"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A_B01",
+                "Title": "A_B01",
+                "Abstract": "同意備案",
+                "Keywords": "features, A_B01, 同意備案",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06414691999889",
+                        "miny": "22.893154293932962",
+                        "maxx": "120.59576926611823",
+                        "maxy": "23.41258921375514"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A_B02",
+                "Title": "A_B02",
+                "Abstract": "同意備案",
+                "Keywords": "features, A_B02, 同意備案",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06563978590553",
+                        "miny": "22.89172562406191",
+                        "maxx": "120.59504605319289",
+                        "maxy": "23.41306123473523"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A_C01",
+                "Title": "A_C01",
+                "Abstract": "設備登記",
+                "Keywords": "features, A_C01, 設備登記",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.07209615517938",
+                        "miny": "22.897517671894565",
+                        "maxx": "120.52652999036961",
+                        "maxy": "23.4125226017496"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A_C02",
+                "Title": "A_C02",
+                "Abstract": "設備登記",
+                "Keywords": "features, A_C02, 設備登記",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.07209615517938",
+                        "miny": "22.897517671894565",
+                        "maxx": "120.59504710620331",
+                        "maxy": "23.412715210058245"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A_D01",
+                "Title": "A_D01",
+                "Abstract": "輸電線",
+                "Keywords": "features, A_D01, 輸電線",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.12427246024548",
+                        "miny": "22.901182498207348",
+                        "maxx": "120.50515817836055",
+                        "maxy": "23.360985397875655"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A_E01",
+                "Title": "A_E01",
+                "Abstract": "聯審",
+                "Keywords": "features, A_E01, 聯審",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.08839035688146",
+                        "miny": "22.90127362647046",
+                        "maxx": "120.44896782648793",
+                        "maxy": "23.403139738639727"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:A_F01",
+                "Title": "A_F01",
+                "Abstract": "變電所",
+                "Keywords": "features, A_F01, 變電所",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.11839576548509",
+                        "miny": "22.9205032787269",
+                        "maxx": "120.50523206032284",
+                        "maxy": "23.349444525551313"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B001",
+                "Title": "B001",
+                "Abstract": "臺南市可優先推動漁業經營結合綠能之區位範圍",
+                "Keywords": "features, B001, 臺南市可優先推動漁業經營結合綠能之區位範圍",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.1612487216386",
+                        "miny": "23.06385713730448",
+                        "maxx": "120.24908740312436",
+                        "maxy": "23.295231681901136"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B002",
+                "Title": "B002",
+                "Abstract": "養殖漁業生產區",
+                "Keywords": "features, B002, 養殖漁業生產區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.084715829514",
+                        "miny": "22.340664942637",
+                        "maxx": "121.834053562688",
+                        "maxy": "24.8723196852574"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B003",
+                "Title": "B003",
+                "Abstract": "嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍",
+                "Keywords": "features, B003, 嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.095533920763",
+                        "miny": "22.417966777767745",
+                        "maxx": "120.5126435257323",
+                        "maxy": "23.902992011452703"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B101",
+                "Title": "B101",
+                "Abstract": "特定水土保持區",
+                "Keywords": "features, B101, 特定水土保持區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.36846077367753",
+                        "miny": "22.1410328336827",
+                        "maxx": "121.9347554851225",
+                        "maxy": "25.147442916157473"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B10201",
+                "Title": "B10201",
+                "Abstract": "河川(支流)riverlin",
+                "Keywords": "features, B10201, 河川(支流)riverlin",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.0703668589169",
+                        "miny": "21.911397453369425",
+                        "maxx": "122.00181121180655",
+                        "maxy": "25.298140986547374"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B10202",
+                "Title": "B10202",
+                "Abstract": "河川(河道)riverpoly",
+                "Keywords": "features, B10202, 河川(河道)riverpoly",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06166961161547",
+                        "miny": "21.90419375950805",
+                        "maxx": "122.00509810441883",
+                        "maxy": "25.295374405307058"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B10203",
+                "Title": "B10203",
+                "Abstract": "河川區域RIVREGLN",
+                "Keywords": "features, B10203, 河川區域RIVREGLN",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.03572689756473",
+                        "miny": "22.060613290041434",
+                        "maxx": "121.84009390076753",
+                        "maxy": "25.234924641842213"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B10401",
+                "Title": "B10401",
+                "Abstract": {},
+                "Keywords": "features, B10401",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.14451728355473",
+                        "miny": "22.716575631502437",
+                        "maxx": "121.79901669585912",
+                        "maxy": "25.127738165292467"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B10402",
+                "Title": "B10402",
+                "Abstract": "臺南市轄區排水路",
+                "Keywords": "features, B10402, 臺南市轄區排水路",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.07532476616959",
+                        "miny": "22.901058877095256",
+                        "maxx": "120.50228973623393",
+                        "maxy": "23.40732479554732"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B10601",
+                "Title": "B10601",
+                "Abstract": "台江_海域分區圖",
+                "Keywords": "features, B10601, 台江_海域分區圖",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.656828125895",
+                        "miny": "22.960481780380718",
+                        "maxx": "120.1366050967425",
+                        "maxy": "23.252718160536656"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B10602",
+                "Title": "B10602",
+                "Abstract": "台江_陸域分區圖",
+                "Keywords": "features, B10602, 台江_陸域分區圖",
+                "SRS": "EPSG:404000",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.02996167999345",
+                        "miny": "22.99746901896279",
+                        "maxx": "120.17303769800864",
+                        "maxy": "23.181349356751408"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B10603",
+                "Title": "B10603",
+                "Abstract": "台江_陸域範圍圖",
+                "Keywords": "B10603, features, 台江_陸域範圍圖",
+                "SRS": "EPSG:404000",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.02996167999345",
+                        "miny": "22.99746901896279",
+                        "maxx": "120.17303769800864",
+                        "maxy": "23.181349356751408"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B107",
+                "Title": "B107",
+                "Abstract": "自然保留區",
+                "Keywords": "features, B107, 自然保留區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.50022230311158",
+                        "miny": "21.959223838232617",
+                        "maxx": "121.86175087652013",
+                        "maxy": "25.167672820383014"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B108",
+                "Title": "B108",
+                "Abstract": "野生動物保護區",
+                "Keywords": "features, B108, 野生動物保護區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.31735467340768",
+                        "miny": "23.00825621374112",
+                        "maxx": "122.10794385190752",
+                        "maxy": "26.35577757675099"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B109",
+                "Title": "B109",
+                "Abstract": "野生動物重要棲息環境",
+                "Keywords": "features, B109, 野生動物重要棲息環境",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.3173546646222",
+                        "miny": "22.308541189897017",
+                        "maxx": "122.10794384991863",
+                        "maxy": "26.35577757675099"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B110",
+                "Title": "B110",
+                "Abstract": "自然保護區",
+                "Keywords": "B110, features, 自然保護區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.56708219307801",
+                        "miny": "22.356288890003356",
+                        "maxx": "121.2645223271669",
+                        "maxy": "24.485866844215295"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B11101",
+                "Title": "B11101",
+                "Abstract": "一級海岸保護區-台灣沿海保護區圖",
+                "Keywords": "features, B11101, 一級海岸保護區-台灣沿海保護區圖",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "119.98144460582333",
+                        "miny": "21.876463620994894",
+                        "maxx": "121.99993832749237",
+                        "maxy": "25.310377223389658"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B11102",
+                "Title": "B11102",
+                "Abstract": "嘉義一級海岸災害防治區",
+                "Keywords": "features, B11102, 嘉義一級海岸災害防治區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.10455634599138",
+                        "miny": "23.31307375065311",
+                        "maxx": "120.17620257279695",
+                        "maxy": "23.52112012180331"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B11103",
+                "Title": "B11103",
+                "Abstract": "嘉義一級海岸陸域緩衝區",
+                "Keywords": "features, B11103, 嘉義一級海岸陸域緩衝區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.11932849994355",
+                        "miny": "23.316828066624044",
+                        "maxx": "120.17898958159911",
+                        "maxy": "23.519921272325202"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B11104",
+                "Title": "B11104",
+                "Abstract": "臺南一級海岸災害防治區",
+                "Keywords": "features, B11104, 臺南一級海岸災害防治區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.02761899187148",
+                        "miny": "22.907079177567507",
+                        "maxx": "120.1844635098284",
+                        "maxy": "23.340690042763626"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B11105",
+                "Title": "B11105",
+                "Abstract": "臺南一級海岸陸域緩衝區",
+                "Keywords": "features, B11105, 臺南一級海岸陸域緩衝區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.03589928996975",
+                        "miny": "22.959093469496313",
+                        "maxx": "120.18376614465787",
+                        "maxy": "23.323468910358194"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B120",
+                "Title": "B120",
+                "Abstract": "飲用水水源水質保護區或飲用水取水口一定距離內之地區",
+                "Keywords": "features, B120, 飲用水水源水質保護區或飲用水取水口一定距離內之地區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.2290741938031",
+                        "miny": "22.126398509149922",
+                        "maxx": "121.92146434254597",
+                        "maxy": "25.26130265496122"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B121",
+                "Title": "B121",
+                "Abstract": "水庫集水區（供家用或供公共給水）",
+                "Keywords": "B121, features, 水庫集水區（供家用或供公共給水）",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.22949412269199",
+                        "miny": "21.961288085609166",
+                        "maxx": "121.86287005967215",
+                        "maxy": "26.38782760379122"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B125",
+                "Title": "B125",
+                "Abstract": "水產動植物繁殖保育區",
+                "Keywords": "features, B125, 水產動植物繁殖保育區",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.28875000024402",
+                        "miny": "22.030971999910996",
+                        "maxx": "122.00018611134925",
+                        "maxy": "25.224522221740795"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B12701",
+                "Title": "B12701",
+                "Abstract": "eBird水鳥熱點",
+                "Keywords": "features, B12701, eBird水鳥熱點",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.03349558311223",
+                        "miny": "21.895544459047844",
+                        "maxx": "122.11394102187906",
+                        "maxy": "25.485370337622435"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B12702",
+                "Title": "B12702",
+                "Abstract": "eBird水鳥熱點_H",
+                "Keywords": "features, B12702, eBird水鳥熱點_H, eBird水鳥熱點_H",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.03356020879838",
+                        "miny": "21.96763263767676",
+                        "maxx": "122.01060351315516",
+                        "maxy": "25.28104752509182"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B128",
+                "Title": "B128",
+                "Abstract": "IBA重要野鳥棲地",
+                "Keywords": "features, B128, IBA重要野鳥棲地",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.21152",
+                        "miny": "21.89114",
+                        "maxx": "121.84879",
+                        "maxy": "26.36232"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B12901",
+                "Title": "B12901",
+                "Abstract": "紅皮書受脅植物分布點位緩衝帶",
+                "Keywords": "features, B12901, 紅皮書受脅植物分布點位緩衝帶",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "118.22010089200012",
+                        "miny": "21.895963668000036",
+                        "maxx": "121.99123605200009",
+                        "maxy": "26.236101011000073"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:B12902",
+                "Title": "B12902",
+                "Abstract": "紅皮書受脅植物重要棲地",
+                "Keywords": "features, B12902, 紅皮書受脅植物重要棲地",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.09722728851065",
+                        "miny": "21.944381288154695",
+                        "maxx": "121.96454901175552",
+                        "maxy": "25.300122046446006"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:C101",
+                "Title": "C101",
+                "Abstract": "可優先推動漁業經營結合綠能",
+                "Keywords": "C101, features, 可優先推動漁業經營結合綠能",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.13681741948396",
+                        "miny": "23.209464741159657",
+                        "maxx": "120.21955468620429",
+                        "maxy": "23.290365146356162"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:ContractM",
+                "Title": "ContractM",
+                "Abstract": "綠能屋頂潛勢",
+                "Keywords": "features, ContractM, 綠能屋頂潛勢",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.02690556663867",
+                        "miny": "22.88750610032639",
+                        "maxx": "120.65626757768666",
+                        "maxy": "23.413741867593217"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:D101",
+                "Title": "D101",
+                "Abstract": "養殖漁業經營結合綠能設施",
+                "Keywords": "features, D101, 養殖漁業經營結合綠能設施",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.13359967385061",
+                        "miny": "23.221437846296993",
+                        "maxx": "120.20685595341189",
+                        "maxy": "23.293263216872166"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:DAYS",
+                "Title": "DAYS",
+                "Abstract": "日發電量統計",
+                "Keywords": "features, DAYS, 日發電量統計",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.02690556663867",
+                        "miny": "22.88750610032639",
+                        "maxx": "120.65626757768666",
+                        "maxy": "23.413741867593217"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:DEVICES",
+                "Title": "DEVICES",
+                "Abstract": "裝置容量統計",
+                "Keywords": "features, DEVICES, 裝置容量統計",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.02690556663867",
+                        "miny": "22.88750610032639",
+                        "maxx": "120.65626757768666",
+                        "maxy": "23.413741867593217"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GCL",
+                "Title": "GCL",
+                "Abstract": "再生能源憑證案件位置",
+                "Keywords": "features, GCL, 再生能源憑證案件位置",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.14069400000005",
+                        "miny": "22.976938000000075",
+                        "maxx": "120.3709100000001",
+                        "maxy": "23.22925300000003"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GCL01",
+                "Title": "GCL01",
+                "Abstract": "能源局列管案場",
+                "Keywords": "features, GCL01, 能源局列管案場",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06551772843781",
+                        "miny": "22.906674397226972",
+                        "maxx": "120.46474706877127",
+                        "maxy": "23.398570410446446"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB002",
+                "Title": "GHB002",
+                "Abstract": "台南案場_學甲區全",
+                "Keywords": "features, GHB002, 台南案場_學甲區全",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.13779776100012",
+                        "miny": "23.20808247800005",
+                        "maxx": "120.23227187100008",
+                        "maxy": "23.289541443000076"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHF100",
+                "Title": "GHF100",
+                "Abstract": {},
+                "Keywords": "features, GHF100, 綠能屋頂案場地址",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.09038043639693",
+                        "miny": "22.609818798322735",
+                        "maxx": "120.70148180967847",
+                        "maxy": "24.132736842979515"
+                    }
+                }
+            },
+            {
+                "Name": "tiger:poly_landmarks",
+                "Title": "Manhattan (NY) landmarks",
+                "Abstract": "Manhattan landmarks, identifies water, lakes, parks, interesting buildilngs",
+                "Keywords": "landmarks, DS_poly_landmarks, manhattan, poly_landmarks",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-74.047185",
+                        "miny": "40.679648",
+                        "maxx": "-73.90782",
+                        "maxy": "40.882078"
+                    }
+                }
+            },
+            {
+                "Name": "tiger:poi",
+                "Title": "Manhattan (NY) points of interest",
+                "Abstract": "Points of interest in New York, New York (on Manhattan). One of the attributes contains the name of a file with a picture of the point of interest.",
+                "Keywords": "poi, Manhattan, DS_poi, points_of_interest",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-74.0118315772888",
+                        "miny": "40.70754683896324",
+                        "maxx": "-74.00857344353275",
+                        "maxy": "40.711945649065406"
+                    }
+                }
+            },
+            {
+                "Name": "tiger:tiger_roads",
+                "Title": "Manhattan (NY) roads",
+                "Abstract": "Highly simplified road layout of Manhattan in New York..",
+                "Keywords": "DS_tiger_roads, tiger_roads, roads",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-74.02722",
+                        "miny": "40.684221",
+                        "maxx": "-73.907005",
+                        "maxy": "40.878178"
+                    }
+                }
+            },
+            {
+                "Name": "sf:archsites",
+                "Title": "Spearfish archeological sites",
+                "Abstract": "Sample data from GRASS, archeological sites location, Spearfish, South Dakota, USA",
+                "Keywords": "archsites, spearfish, sfArchsites, archeology",
+                "SRS": "EPSG:26713",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-103.8725637911543",
+                        "miny": "44.37740330855979",
+                        "maxx": "-103.63794182141925",
+                        "maxy": "44.48804280772808"
+                    }
+                }
+            },
+            {
+                "Name": "sf:bugsites",
+                "Title": "Spearfish bug locations",
+                "Abstract": "Sample data from GRASS, bug sites location, Spearfish, South Dakota, USA",
+                "Keywords": "spearfish, sfBugsites, insects, bugsites, tiger_beetles",
+                "SRS": "EPSG:26713",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-103.86796131703647",
+                        "miny": "44.373938816704396",
+                        "maxx": "-103.63773523234195",
+                        "maxy": "44.43418821380063"
+                    }
+                }
+            },
+            {
+                "Name": "sf:restricted",
+                "Title": "Spearfish restricted areas",
+                "Abstract": "Sample data from GRASS, restricted areas, Spearfish, South Dakota, USA",
+                "Keywords": "spearfish, restricted, areas, sfRestricted",
+                "SRS": "EPSG:26713",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-103.85057172920756",
+                        "miny": "44.39436387625042",
+                        "maxx": "-103.74741494853805",
+                        "maxy": "44.48215752041131"
+                    }
+                }
+            },
+            {
+                "Name": "sf:roads",
+                "Title": "Spearfish roads",
+                "Abstract": "Sample data from GRASS, road layout, Spearfish, South Dakota, USA",
+                "Keywords": "sfRoads, spearfish, roads",
+                "SRS": "EPSG:26713",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-103.87741691493184",
+                        "miny": "44.37087275281798",
+                        "maxx": "-103.62231404880659",
+                        "maxy": "44.50015918338962"
+                    }
+                }
+            },
+            {
+                "Name": "sf:streams",
+                "Title": "Spearfish streams",
+                "Abstract": "Sample data from GRASS, streams, Spearfish, South Dakota, USA",
+                "Keywords": "spearfish, sfStreams, streams",
+                "SRS": "EPSG:26713",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-103.87789019829768",
+                        "miny": "44.372335260095554",
+                        "maxx": "-103.62287788915457",
+                        "maxy": "44.502218486214815"
+                    }
+                }
+            },
+            {
+                "Name": "topp:tasmania_cities",
+                "Title": "Tasmania cities",
+                "Abstract": "Cities in Tasmania (actually, just the capital)",
+                "Keywords": "cities, Tasmania",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "145.19754",
+                        "miny": "-43.423512",
+                        "maxx": "148.27298000000002",
+                        "maxy": "-40.852802"
+                    }
+                }
+            },
+            {
+                "Name": "topp:tasmania_roads",
+                "Title": "Tasmania roads",
+                "Abstract": "Main Tasmania roads",
+                "Keywords": "Roads, Tasmania",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "145.19754",
+                        "miny": "-43.423512",
+                        "maxx": "148.27298000000002",
+                        "maxy": "-40.852802"
+                    }
+                }
+            },
+            {
+                "Name": "topp:tasmania_state_boundaries",
+                "Title": "Tasmania state boundaries",
+                "Abstract": "Tasmania state boundaries",
+                "Keywords": "boundaries, tasmania_state_boundaries, Tasmania",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "143.83482400000003",
+                        "miny": "-43.648056",
+                        "maxx": "148.47914100000003",
+                        "maxy": "-39.573891"
+                    }
+                }
+            },
+            {
+                "Name": "topp:tasmania_water_bodies",
+                "Title": "Tasmania water bodies",
+                "Abstract": "Tasmania water bodies",
+                "Keywords": "Lakes, Bodies, Australia, Water, Tasmania",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "145.97161899999998",
+                        "miny": "-43.031944",
+                        "maxx": "147.219696",
+                        "maxy": "-41.775558"
+                    }
+                }
+            },
+            {
+                "Name": "topp:states",
+                "Title": "USA Population",
+                "Abstract": "This is some census data on the states.",
+                "Keywords": "census, united, boundaries, state, states",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-124.731422",
+                        "miny": "24.955967",
+                        "maxx": "-66.969849",
+                        "maxy": "49.371735"
+                    }
+                }
+            },
+            {
+                "Name": "tiger:giant_polygon",
+                "Title": "World rectangle",
+                "Abstract": "A simple rectangular polygon covering most of the world, it's only used for the purpose of providing a background (WMS bgcolor could be used instead)",
+                "Keywords": "DS_giant_polygon, giant_polygon",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "-180.0",
+                        "miny": "-90.0",
+                        "maxx": "180.0",
+                        "maxy": "90.0"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB008M001",
+                "Title": "不利耕作地",
+                "Abstract": "不利耕作地",
+                "Keywords": "features, GHB008M001, 不利耕作地",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.09565550961997",
+                        "miny": "23.229930104338564",
+                        "maxx": "120.20375191536732",
+                        "maxy": "23.28901277682224"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB023006B",
+                "Title": "公私有案場",
+                "Abstract": "公私有案場",
+                "Keywords": "features, GHB023006B, 公私有案場",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06409488539258",
+                        "miny": "22.89316489323642",
+                        "maxx": "120.52769877195165",
+                        "maxy": "23.412230529691442"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB023M",
+                "Title": "同意備案",
+                "Abstract": "同意備案",
+                "Keywords": "features, GHB023M, 同意備案",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06409488539258",
+                        "miny": "22.89316489323642",
+                        "maxx": "120.52769877195165",
+                        "maxy": "23.412230529691442"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB023M001",
+                "Title": "同意備案-垃圾掩埋場",
+                "Abstract": "同意備案-垃圾掩埋場",
+                "Keywords": "features, GHB023MA, 同意備案-垃圾掩埋場",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.07344435473654",
+                        "miny": "23.040552471619595",
+                        "maxx": "120.35913886936032",
+                        "maxy": "23.392466902150773"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB023M002",
+                "Title": "同意備案-水域空間",
+                "Abstract": "同意備案-水域空間",
+                "Keywords": "features, GHB023MA002, 同意備案-水域空間",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.25189743866213",
+                        "miny": "23.021914864632507",
+                        "maxx": "120.46655005387082",
+                        "maxy": "23.285794957186496"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB013M",
+                "Title": "太陽光電補助",
+                "Abstract": "太陽光電補助",
+                "Keywords": "features, GHB013M, 太陽光電補助",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.10791735137732",
+                        "miny": "22.907251039451936",
+                        "maxx": "120.48430542775823",
+                        "maxy": "23.40857689987765"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB001M",
+                "Title": "案場分布",
+                "Abstract": "案場分布",
+                "Keywords": "features, GHB001M, 案場分布",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.03676910939534",
+                        "miny": "22.89316489323642",
+                        "maxx": "120.52769877195165",
+                        "maxy": "23.412230529691442"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB008M002",
+                "Title": "漁電共生",
+                "Abstract": "漁電共生",
+                "Keywords": "features, GHB008M002, 漁電共生",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.03676910939534",
+                        "miny": "23.07915907909046",
+                        "maxx": "120.32938839424664",
+                        "maxy": "23.289119712680623"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB015M",
+                "Title": "用電大戶",
+                "Abstract": "用電大戶",
+                "Keywords": "features, GHB015M, 用電大戶",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.07344435473654",
+                        "miny": "22.90561605828934",
+                        "maxx": "120.50237381741064",
+                        "maxy": "23.371616380990172"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB004M",
+                "Title": "綠能用地",
+                "Abstract": {},
+                "Keywords": "features, 綠能用地",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06050462572603",
+                        "miny": "22.908433930992032",
+                        "maxx": "120.49696080360445",
+                        "maxy": "23.406144939529085"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB008M",
+                "Title": "綠能設施",
+                "Abstract": "綠能設施",
+                "Keywords": "features, GHB008M, 綠能設施",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.03676910939534",
+                        "miny": "23.07915907909046",
+                        "maxx": "120.32938839424664",
+                        "maxy": "23.289119712680623"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB024M",
+                "Title": "設備登記",
+                "Abstract": "設備登記",
+                "Keywords": "features, GHB024M, 設備登記",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.07013393248991",
+                        "miny": "22.89885925803314",
+                        "maxx": "120.52769877195165",
+                        "maxy": "23.412230529691442"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB004M001",
+                "Title": "變更非都市土地使用分區案件(2公頃以上)",
+                "Abstract": "變更非都市土地使用分區案件(2公頃以上)",
+                "Keywords": "features, 綠能用地_兩公頃以上, 變更非都市土地使用分區案件(2公頃以上)",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.13583536915388",
+                        "miny": "23.042184057384365",
+                        "maxx": "120.31177633586776",
+                        "maxy": "23.278674829633406"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB004M002",
+                "Title": "變更非都市土地使用地類別案件(2公頃以下)",
+                "Abstract": "變更非都市土地使用地類別案件(2公頃以下)",
+                "Keywords": "features, GHB004M002, 變更非都市土地使用地類別案件(2公頃以下)",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06050462572603",
+                        "miny": "22.908433930992032",
+                        "maxx": "120.49696080360445",
+                        "maxy": "23.402324740127924"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB004M003",
+                "Title": "都市土地容許案件",
+                "Abstract": "都市土地容許案件",
+                "Keywords": "features, GHB004M003, 都市土地容許案件",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.09300415029435",
+                        "miny": "23.023417753096048",
+                        "maxx": "120.46973429250188",
+                        "maxy": "23.365966368728206"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB011MT",
+                "Title": "電業籌設",
+                "Abstract": "電業籌設",
+                "Keywords": "features, GHB011MT, 電業籌設",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06409488539258",
+                        "miny": "22.89316489323642",
+                        "maxx": "120.46513382309422",
+                        "maxy": "23.398247144563197"
+                    }
+                }
+            },
+            {
+                "Name": "GHB:GHB004M004",
+                "Title": "非都市土地容許案件",
+                "Abstract": "非都市土地容許案件",
+                "Keywords": "features, GHB004M004, 非都市土地容許案件",
+                "SRS": "EPSG:4326",
+                "LatLongBoundingBox": {
+                    "@attributes": {
+                        "minx": "120.06945186727414",
+                        "miny": "22.94403316741152",
+                        "maxx": "120.48044126242704",
+                        "maxy": "23.406144939529085"
+                    }
+                }
+            }
+        ]
+    }
+}

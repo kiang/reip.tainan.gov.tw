@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:A12303</name>
+            <LookAt>
+                <longitude>121.01511849806312</longitude>
+                <latitude>23.477941634659118</latitude>
+                <altitude>426050.4169798655</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>344271.0839757397</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="A12303.22">
+                <name>A12303.22</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0037-0012&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1,246&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500370012&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;37-12&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.58276077510752</longitude>
+                    <latitude>23.434916383369014</latitude>
+                    <altitude>72.91391649322307</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>58.91826898323341</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.58274670670754,23.434922134874924</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.58268798884983,23.435093056030386 120.58296876767126,23.435059717732784 120.58297594750502,23.4349406759333 120.58275430824656,23.434744854261833 120.5825698757203,23.4347397104128 120.5825536710679,23.434863875157124 120.58254560328521,23.43495406391124 120.58256008409495,23.43495816645273 120.58261111725868,23.435007291072825 120.58265221043175,23.435066503270956 120.5826786686433,23.435070817842135 120.58268798884983,23.435093056030386</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A12303.23">
+                <name>A12303.23</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0001-0006&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;82,928&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500010006&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1-6&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.58787579727368</longitude>
+                    <latitude>23.436728674477152</latitude>
+                    <altitude>791.3366152120393</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>639.4414920185759</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.58845608707878,23.43635288839789</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.58536127413807,23.43588981449652 120.58542084961034,23.43590202642478 120.58555277021604,23.435896055521766 120.5856173269007,23.435930451612776 120.58566886989433,23.43601750354255 120.58563504380439,23.43607078043112 120.58568613944483,23.43616627346518 120.58569263079016,23.43617166477174 120.58576392696529,23.43622923904483 120.58594605626723,23.436289411563735 120.58604709075514,23.436349458100082 120.58614654235872,23.436300371963878 120.58619623094253,23.43627427196436 120.58629093380239,23.436246393951677 120.58638231996413,23.436249435057878 120.58647644993505,23.436290771936164 120.5865288047165,23.436343646400836 120.58662534190097,23.436378757636078 120.58686585109838,23.436434839806115 120.58692213488145,23.436454808493536 120.58708325816406,23.436445934574895 120.58721483898086,23.436401221973437 120.58730009394623,23.436399686270125 120.58736566759181,23.43640934133489 120.58769102015637,23.43655287625036 120.58791623269288,23.43658399338966 120.58802124066975,23.436695114650956 120.58811664750117,23.436782370760213 120.5881614184388,23.436854231982032 120.58821567402508,23.436925578139125 120.58829767554367,23.437023545373787 120.58837181563415,23.43709864456259 120.58845545224013,23.437117466923066 120.58856989735861,23.43785823477021 120.58872107682329,23.438163218054534 120.58878441083657,23.43816807958342 120.58893937585798,23.438128710430117 120.58898646993096,23.438019389798143 120.5891480170184,23.43795606338779 120.58918749140999,23.438084439183648 120.58928245911132,23.43817833080139 120.58942107506971,23.43825495476319 120.58942194441026,23.43825540788988 120.58952817973567,23.438209047192217 120.5897914381711,23.43837286824762 120.58982523336027,23.438350109770802 120.5898292008088,23.43827106188946 120.58989976927695,23.43819106031234 120.59007307826913,23.438093539105562 120.59017895037037,23.43799651850993 120.59018515398095,23.437733488191697 120.59003958072229,23.43770886078362 120.58981597812532,23.43768474989912 120.58965873404567,23.43747176854041 120.58952236900043,23.437406529733217 120.5895681961619,23.437219050505412 120.58967930482312,23.43708032404058 120.58984483694569,23.43696065856167 120.58980061135769,23.436849652829956 120.58981605571132,23.43680179004362 120.58999363097762,23.43671163912753 120.590055801631,23.43653833524927 120.590078706725,23.436511304262126 120.59014280188515,23.436405415441854 120.59016892436478,23.436266736284942 120.59010367066259,23.436226064469185 120.5900915949174,23.436160745422306 120.59011860122718,23.436116208160374 120.59019821093905,23.436063319716197 120.59019733487291,23.435990354824757 120.59022835219665,23.435843020773795 120.59026432286481,23.43577290615704 120.59025020826424,23.435745236344864 120.59026892863088,23.435710791477646 120.59030392085677,23.435662798343277 120.59044674557063,23.43540969891985 120.59039161481932,23.435407927819412 120.59029887969116,23.43538064032259 120.59024188963717,23.43535331039613 120.59020140028262,23.435320965894448 120.59012981594556,23.43525797338728 120.59009124034999,23.43520793682283 120.59008840784894,23.43514733672674 120.59005985094933,23.43509994383718 120.59002408502509,23.435084499428186 120.5899836380564,23.435084438609376 120.58988930230048,23.435154263676637 120.58982786689005,23.435149858437807 120.58971811910111,23.43509222878931 120.58968727125644,23.435127455740496 120.58938157938866,23.435263457124453 120.58928891292477,23.43529165860147 120.58914681856433,23.43541210687081 120.58905042514611,23.43550761765334 120.58896205954498,23.435641932750073 120.58894386762769,23.43573186980115 120.58891159189254,23.4357317848199 120.58884355384401,23.435593355729015 120.58885958853321,23.435340510866194 120.5887734908738,23.435315721133815 120.58864784756967,23.435287351937248 120.58849129913277,23.435339540586135 120.58830344672383,23.435307077934922 120.58811669240221,23.43534825993063 120.58799439255081,23.435335429546612 120.58774608171287,23.435395412121007 120.58758305209668,23.435408841767135 120.58746511207184,23.435367624231723 120.58732975507479,23.435399548572832 120.58729881856537,23.435393643441568 120.58724291989365,23.435383743115572 120.58716407617095,23.435397847271748 120.58702643774508,23.435378112776025 120.58692136910038,23.43538803978278 120.58677600463048,23.43531938722296 120.58666827680301,23.4353475018764 120.58655420389958,23.43531848380565 120.58645148177519,23.43525518175244 120.5864127379887,23.435335311499056 120.58632550211928,23.43541377708317 120.58618290794332,23.435470785859135 120.58571733400419,23.43559470788081 120.58544061314782,23.435590000317667 120.58546064371001,23.435637731437943 120.58550656296681,23.435667111016404 120.58563777782342,23.435691164446606 120.58570132554598,23.435744790549496 120.58572516702507,23.435775510961534 120.58575744080468,23.435791941124723 120.58580030702032,23.435796027885488 120.5857929990035,23.4358331214264 120.58578405925758,23.4358957676508 120.58558532168826,23.435848509393296 120.58542086028945,23.43582500006552 120.58536128060467,23.43581391522682 120.58532573252465,23.435802579546987 120.58530491294181,23.435791236019302 120.58536127413807,23.43588981449652</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A12303.24">
+                <name>A12303.24</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0003-0001&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;184,775&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500030001&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3-1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.58500975185552</longitude>
+                    <latitude>23.438967735599306</latitude>
+                    <altitude>1213.582536881655</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>980.6383442315001</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.58525181637489,23.43921452776329</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.58542066152597,23.438003414448797 120.58536111324212,23.438014995364973 120.58517354481155,23.438061362533915 120.58503764537309,23.43815310895469 120.58452514237402,23.438391945022968 120.58355885126731,23.4388457050769 120.58340905554849,23.438914747304246 120.58331598285551,23.43893093264967 120.58331104702464,23.43893191351557 120.58315203414482,23.43902680096936 120.58306456202068,23.439098085009366 120.58296873008763,23.439174811537644 120.58293552891345,23.439227773251872 120.58284064746795,23.439375703658442 120.58278099078781,23.439396630391784 120.58273131016706,23.439425664451008 120.5826822881441,23.439483370861964 120.58253407577982,23.439604247412127 120.58252735272018,23.439610234371795 120.58248047643238,23.439631375189535 120.58227102312938,23.439762970451653 120.5823091785081,23.439817071598156 120.58235972025065,23.439827004769928 120.58235377995724,23.439931240931934 120.5823339066436,23.439964373027994 120.58232027867473,23.44001720851211 120.58227536272234,23.44009032164639 120.5822228700012,23.440134202249087 120.58219590740207,23.440199778963326 120.582112772427,23.440246874278046 120.58208095448488,23.44029686051212 120.58204818681313,23.440437506861258 120.58197489949697,23.44055230768231 120.58185209688892,23.44062011039799 120.58182399747434,23.44067349409693 120.5818343592194,23.44067893976062 120.58185251837901,23.44072106836506 120.58179260882095,23.440783079950045 120.58168653011595,23.44082325077354 120.58161819516208,23.44080116902402 120.5815632553933,23.440803099070834 120.58151563188167,23.440885822631724 120.5814088943025,23.440993761500287 120.58134659800919,23.441013550361408 120.58134263492654,23.441016474888237 120.58131421681215,23.44103725783955 120.58129858424896,23.441072253056834 120.58149565380874,23.441113687427215 120.58153815597221,23.44112197284586 120.58193197205215,23.44122353407632 120.58206968481663,23.44131939481054 120.58210525068354,23.441325449570716 120.58213895038057,23.441363241273606 120.58215572046473,23.441450290440834 120.58221860330929,23.441525814768404 120.58223512509589,23.441564191337367 120.58227322142193,23.441584205388427 120.58234839986163,23.441585444426746 120.58242065573751,23.441624466326694 120.5824285339722,23.441646431408806 120.58253194667269,23.441725900864174 120.58257106122332,23.441742756990607 120.58262162356179,23.441747768468836 120.5826779055282,23.44173622529042 120.58282125179062,23.441769477512672 120.58297945730814,23.441707004954377 120.58304228253174,23.441659178683395 120.5830901207947,23.441637364020565 120.5832011961361,23.44157973241345 120.58334665829506,23.441564227080896 120.58337427621859,23.44158010367679 120.58344033014536,23.44156203973059 120.58359732558273,23.441268665933478 120.58373704826876,23.441241902099453 120.5838350253122,23.441165046225205 120.58405307234516,23.44103478204828 120.5841253822543,23.44088629456444 120.58414368256932,23.440806925032494 120.5842099683921,23.44071458860836 120.5843066316174,23.44064617121695 120.58435092777817,23.44062389588476 120.58439573223409,23.440611145888187 120.58443423381168,23.44058926054596 120.58446999438353,23.44058633135915 120.58448764691427,23.440565112159227 120.58448779396039,23.44056204276839 120.58449091048475,23.440496402178905 120.58452249264691,23.4404572506327 120.58458139500847,23.44047889900446 120.58462982838519,23.440518625108854 120.58466750929327,23.440491454243 120.58471839241913,23.440489377683914 120.58481853584202,23.440512760579647 120.58486369377657,23.44053568097692 120.58490582355469,23.440583381687475 120.58497222751372,23.4406381897363 120.58502819583691,23.440637436851134 120.58503348035295,23.440711180469446 120.5850095652434,23.4407944189855 120.58498236873535,23.44080044241332 120.58497925870802,23.440860799749686 120.58510613279816,23.440767540746307 120.5851881985951,23.440680258302688 120.58524841389675,23.440629398236176 120.58531721939862,23.44062339450793 120.58536092776575,23.4406261295566 120.58542042442237,23.440603351093543 120.58544168594675,23.440611309784117 120.58555229809183,23.44061088027954 120.58563211649364,23.440650780194925 120.5856003327666,23.44072347675272 120.58565945454832,23.440762780075232 120.58572817056447,23.440774476096735 120.58579527081903,23.44082558343662 120.58599025683866,23.440848088553636 120.58621748676897,23.440772838773654 120.58621908457623,23.440845760133616 120.58625673971677,23.44089606756393 120.58631917982893,23.440859661779477 120.5863737766998,23.44082648499023 120.58648009525918,23.440777869306736 120.58658062631658,23.440672122414483 120.58670313502704,23.440625670594756 120.58681570270306,23.44057851610357 120.58690436058734,23.44054104924177 120.58706920807766,23.440448385341256 120.58710379051129,23.44045917801014 120.58716788022674,23.44043221257599 120.58718795150607,23.440333340679974 120.58719470440624,23.44029556780027 120.58719750131723,23.440278959857267 120.58722185405223,23.44022430196322 120.58723143173853,23.440201661612157 120.58721305718036,23.44016856393485 120.58721479644053,23.440117503056037 120.58717565064207,23.440017932922384 120.58724097870446,23.439949748594245 120.5873256172171,23.439923559081166 120.58735253033484,23.439892160640746 120.58736509079013,23.439829525488914 120.5872984064635,23.439718368940657 120.58725312487599,23.439495568595788 120.58720640920627,23.439317190986138 120.58718199468332,23.439229624285158 120.58722280790258,23.43914841659709 120.58719172076201,23.438995364925972 120.58721275916798,23.43885455176524 120.58724474678428,23.438878205271685 120.58751209699437,23.438129958195834 120.58753289324122,23.438043459629597 120.58758637118103,23.43793971039867 120.58762223671147,23.437976692648228 120.58769899528309,23.43798217711001 120.5878124578294,23.437939133438526 120.58792352469194,23.437846506578403 120.58797306432058,23.437737645115003 120.58801959187502,23.43772426774294 120.58808239908554,23.437755134452434 120.58823527422408,23.437965713885475 120.58871726062111,23.438162937183282 120.58872107682329,23.438163218054534 120.58856989735861,23.43785823477021 120.58845545224013,23.437117466923066 120.58837181563415,23.43709864456259 120.58829767554367,23.437023545373787 120.58821567402508,23.436925578139125 120.5881614184388,23.436854231982032 120.58811664750117,23.436782370760213 120.58802124066975,23.436695114650956 120.58791623269288,23.43658399338966 120.58769102015637,23.43655287625036 120.58736566759181,23.43640934133489 120.58730009394623,23.436399686270125 120.58721483898086,23.436401221973437 120.58708325816406,23.436445934574895 120.58692213488145,23.436454808493536 120.58686585109838,23.436434839806115 120.58662534190097,23.436378757636078 120.5865288047165,23.436343646400836 120.58647644993505,23.436290771936164 120.58638231996413,23.436249435057878 120.58629093380239,23.436246393951677 120.58619623094253,23.43627427196436 120.58614654235872,23.436300371963878 120.58604709075514,23.436349458100082 120.58594605626723,23.436289411563735 120.58576392696529,23.43622923904483 120.58569263079016,23.43617166477174 120.58568613944483,23.43616627346518 120.58564970533372,23.436165905955587 120.58564300819404,23.43650280054026 120.58574326765772,23.436598062418593 120.58605145696721,23.436826663826814 120.58630376150583,23.436885306289945 120.58643766875743,23.43690634024023 120.58655413907194,23.43699261365134 120.58670615438254,23.437045797351086 120.5865746321388,23.437225373540794 120.5864364318303,23.43753672600353 120.5863124959681,23.43766042568099 120.58616857525945,23.437762309842004 120.58603870977394,23.43776792508212 120.585857292078,23.437816115882974 120.58574189810435,23.437857077258077 120.58561597454174,23.437955802681255 120.58542066152597,23.438003414448797</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A12303.25">
+                <name>A12303.25</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0003-0002&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;327&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500030002&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3-2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.58151894107966</longitude>
+                    <latitude>23.441197302628296</latitude>
+                    <altitude>74.61483269469565</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>60.29269848991909</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.58143020090903,23.4411970974672</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.58169668234898,23.441271530256994 120.5818031506707,23.44124752496728 120.5815307978445,23.44116823308902 120.58124146511078,23.441123074485038 120.58123473180794,23.441135517135983 120.58124789924636,23.441135734047744 120.58124369233387,23.441187960703623 120.58130182182141,23.441256204415986 120.58133891348116,23.441262488862805 120.5814251180432,23.441227637500138 120.58149144222821,23.44118460671533 120.58153080585754,23.44118751277678 120.5816138155508,23.4412113480294 120.58168447291489,23.441245218894597 120.58169668234898,23.441271530256994</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A12303.26">
+                <name>A12303.26</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0037-0017&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;409,347&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500370017&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;37-17&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.59075872428717</longitude>
+                    <latitude>23.43264281314204</latitude>
+                    <altitude>1517.5237361645825</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>1226.238775475685</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.5912466108373,23.432376551714494</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.59430947021049,23.428867509395555 120.594263924857,23.428896828798152 120.59411221797417,23.42890004598164 120.59353170242935,23.428918853624232 120.5932984663989,23.428926239395416 120.59263536723971,23.429084071165608 120.5922780163049,23.429049682388126 120.59218019824303,23.429039178153875 120.59193752844003,23.42901465903444 120.59189274829589,23.42900813161655 120.59154975719889,23.428955131419954 120.5912936413394,23.428874770472593 120.59113449904868,23.428938105610353 120.59104254759421,23.429007306863763 120.59092117632373,23.429107900632225 120.59085585341465,23.429095763424872 120.59069986636923,23.42920809619844 120.59069205043362,23.429204148072767 120.59067360520466,23.429216289649517 120.59027300270192,23.429365499018488 120.58986054442204,23.429515941068562 120.58949362392268,23.429739329751555 120.5894350838852,23.429948448973892 120.58943258545966,23.430364548150504 120.58911435695045,23.430035556913328 120.5891423299346,23.430137083792932 120.58908934681666,23.430243724776158 120.58906203866725,23.43037201574606 120.58907292048954,23.43058583215502 120.58904648529436,23.430760901710826 120.58891029622536,23.430799235701897 120.588819141441,23.43095020581358 120.58943684126479,23.43183863025236 120.5899694786053,23.43238065991805 120.59012624305092,23.432534764364927 120.5901702952924,23.43257619141 120.58980566605966,23.432757145019774 120.58969615777866,23.43247805458017 120.58953772543278,23.43245542331264 120.58955227400752,23.432483499779273 120.58948856488034,23.43264880961774 120.58908651589563,23.43254318363766 120.5890166093238,23.43253500818645 120.5886687900946,23.432471016864405 120.58850338000812,23.43247220593221 120.58852269541615,23.43249988961182 120.58840465995634,23.43267205167303 120.58825379193273,23.432769586510187 120.58800798600998,23.43269872908131 120.58792716819917,23.43275188250836 120.58770673423055,23.43292666507658 120.587603862162,23.432959714906062 120.58697323800772,23.43293411746204 120.58712624928874,23.43313620912014 120.587046881936,23.433319309753564 120.5869597807375,23.433339216907473 120.58673926450032,23.433387350795677 120.5865305090746,23.43338864844804 120.5864850681321,23.43334739673562 120.58647790371889,23.433335142450446 120.58646988279689,23.43332748979114 120.58643641505427,23.43328776005526 120.58638054084467,23.433391548013308 120.58645122506438,23.43346591729934 120.58666245300402,23.433637235608185 120.58686952846196,23.43361746609533 120.58702588937648,23.43363765567761 120.58705878800681,23.43364180495168 120.58718827274943,23.43367108881329 120.58732928992312,23.433634303249615 120.58739346470837,23.433607112465598 120.5873771251154,23.433930525466504 120.5873525434211,23.43441262192251 120.58754868768152,23.434405735769957 120.58759733901479,23.434432999249356 120.58762069420476,23.434470897102536 120.58768735448646,23.434478522979525 120.58761797466381,23.434644086252685 120.58761748176036,23.43464507899186 120.58744079055606,23.434750400045967 120.58733388780243,23.434730296200478 120.58729881856537,23.435393643441568 120.58732975507479,23.435399548572832 120.58746511207184,23.435367624231723 120.58758305209668,23.435408841767135 120.58774608171287,23.435395412121007 120.58799439255081,23.435335429546612 120.58811669240221,23.43534825993063 120.58830344672383,23.435307077934922 120.58849129913277,23.435339540586135 120.58864784756967,23.435287351937248 120.5887734908738,23.435315721133815 120.58885958853321,23.435340510866194 120.58884355384401,23.435593355729015 120.58891159189254,23.4357317848199 120.58894386762769,23.43573186980115 120.58896205954498,23.435641932750073 120.58905042514611,23.43550761765334 120.58914681856433,23.43541210687081 120.58928891292477,23.43529165860147 120.58938157938866,23.435263457124453 120.58968727125644,23.435127455740496 120.58971811910111,23.43509222878931 120.58982786689005,23.435149858437807 120.58988930230048,23.435154263676637 120.5899836380564,23.435084438609376 120.59002408502509,23.435084499428186 120.59005985094933,23.43509994383718 120.59008840784894,23.43514733672674 120.59009124034999,23.43520793682283 120.59012981594556,23.43525797338728 120.59020140028262,23.435320965894448 120.59024188963717,23.43535331039613 120.59029887969116,23.43538064032259 120.59039161481932,23.435407927819412 120.59044674557063,23.43540969891985 120.59047949535403,23.435408474570274 120.59051425998504,23.43540725706447 120.59057814118556,23.435497769607018 120.59059311592266,23.4355322136474 120.59062226384847,23.435570577089244 120.59064051417359,23.43558688024923 120.59069500049425,23.43563461182995 120.59078105880786,23.435745274575968 120.59079434837194,23.435772625965466 120.59083199562137,23.435818957708808 120.5908295414422,23.43600916999011 120.59079229807496,23.43616362302417 120.59088852460962,23.43623634156721 120.5909043327664,23.43627512083896 120.59088481409124,23.436308391192064 120.59096940518197,23.436339631607325 120.59105709104857,23.436336880757384 120.59108768715478,23.436381796051332 120.59113098846024,23.43640213623328 120.59124434559426,23.436419680847134 120.59141605378302,23.436340259530823 120.59156170855219,23.43625350006086 120.59166642640855,23.436236751620044 120.59171175299694,23.436215876333502 120.59176056770075,23.4361887782233 120.59189032255526,23.435998853338525 120.59195139494135,23.43594948312268 120.59198579045857,23.43596352402694 120.59204533817065,23.435824210215664 120.59208182586565,23.435771840543094 120.59206949317193,23.435745395008464 120.59214095548657,23.435641013299357 120.59219394898558,23.435481591715234 120.59235012601351,23.435317200097764 120.59237835432383,23.435237673811276 120.59244508849369,23.435143212189733 120.59248775978166,23.435092845071956 120.59259221049598,23.43501288524387 120.59266963054829,23.434973084529233 120.5927727628675,23.4348952892432 120.59300623442313,23.434889622261455 120.59308978214676,23.434748338662867 120.5931792607551,23.434152992437834 120.59309750848244,23.43404654065773 120.59291298259774,23.433923521759436 120.59312967329144,23.43379658161503 120.59331476223717,23.433767580719607 120.59350876417959,23.433648030771984 120.5937144839424,23.433634524405345 120.59389014929273,23.433571680544784 120.59396058398704,23.433509916948854 120.59396106135908,23.43351064141319 120.59402666588069,23.433407190626745 120.59406678623792,23.433358668311122 120.59409644543834,23.433321225442246 120.59410764179323,23.433196006892405 120.59406140917011,23.433031630350698 120.59410615076976,23.432931060439657 120.59422139915276,23.43280886746845 120.5942193921066,23.43279482043717 120.59420330107561,23.432704342756264 120.59423678970637,23.432418898790722 120.59423667003806,23.4323313962103 120.59415598790159,23.431938648109796 120.59415553790531,23.431866451339758 120.59423588262811,23.43171892834159 120.59423106342896,23.42919988395289 120.59431572885275,23.42920890785341 120.59431913601671,23.431724518751068 120.59435166628089,23.431666267891796 120.59435657100923,23.431635352630988 120.59437761243474,23.431530658780183 120.5945129044959,23.431301510205774 120.59452138078501,23.43124482331097 120.59450172504377,23.431098981566542 120.59456945774734,23.4308878085125 120.59459590171188,23.430625733476187 120.59466641332857,23.43048008041216 120.59472205435348,23.430415253633583 120.59476398358794,23.430312058802908 120.59484383438046,23.430271630826635 120.59485727458303,23.430217259515544 120.59502881369873,23.429553947455773 120.59507885885068,23.429383679648343 120.59507868003789,23.429328369747846 120.59510053040799,23.42924363383746 120.59512327368274,23.429208250119196 120.59511327652689,23.42918113303219 120.595137157912,23.42914290789429 120.59506711010808,23.42913979110657 120.59497348023083,23.42913566604391 120.59484251279655,23.429075365996642 120.59466383285597,23.429021759409846 120.59457273058115,23.428951133778465 120.59435584066773,23.42886582336016 120.59430947021049,23.428867509395555</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                        <innerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.5914373643094,23.434038005268903 120.59127475396606,23.43409880477697 120.59121056217268,23.433946975794445 120.59137251455381,23.433885409138135 120.5914373643094,23.434038005268903</coordinates>
+                            </LinearRing>
+                        </innerBoundaryIs>
+                        <innerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.58975722326002,23.430396193180997 120.58994144837774,23.430327145827484 120.59001667463535,23.430493406198288 120.58983182862464,23.430562226586115 120.58975722326002,23.430396193180997</coordinates>
+                            </LinearRing>
+                        </innerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A12303.27">
+                <name>A12303.27</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0037-0026&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;53,559&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500370026&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;37-26&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.59326957927559</longitude>
+                    <latitude>23.43538681178073</latitude>
+                    <altitude>601.9928630446799</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>486.44180887128493</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.59345746343489,23.435436685256484</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.5942688657144,23.435770542048463 120.59430683944126,23.43574743339118 120.59449385514856,23.435748370084205 120.59441843922129,23.43542823851194 120.59430741138092,23.435364332976558 120.59424149831392,23.435361678932345 120.59417120693327,23.435320183259073 120.59403768694241,23.43498978628081 120.59399677139845,23.43476997799155 120.5941789548496,23.43384170866505 120.59414157610556,23.433784090167567 120.59396106135908,23.43351064141319 120.59396058398704,23.433509916948854 120.59389014929273,23.433571680544784 120.5937144839424,23.433634524405345 120.59350876417959,23.433648030771984 120.59331476223717,23.433767580719607 120.59312967329144,23.43379658161503 120.59291298259774,23.433923521759436 120.59309750848244,23.43404654065773 120.5931792607551,23.434152992437834 120.59308978214676,23.434748338662867 120.59300623442313,23.434889622261455 120.5927727628675,23.4348952892432 120.59266963054829,23.434973084529233 120.59259221049598,23.43501288524387 120.59248775978166,23.435092845071956 120.59244508849369,23.435143212189733 120.59237835432383,23.435237673811276 120.59235012601351,23.435317200097764 120.59219394898558,23.435481591715234 120.59214095548657,23.435641013299357 120.59206949317193,23.435745395008464 120.59208182586565,23.435771840543094 120.59204533817065,23.435824210215664 120.59256202031078,23.435962455339478 120.59281579516778,23.436030345892704 120.59283272211295,23.43603486087533 120.59285727824627,23.436099670638875 120.59292189524545,23.436274976631914 120.59288436720716,23.436511919187623 120.59358657401039,23.43726369706697 120.59420041786967,23.43670538266681 120.59426606705357,23.436604056225782 120.5942688657144,23.435770542048463</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A12303.28">
+                <name>A12303.28</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0037-0028&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;427,776&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500370028&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;37-28&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.58308112196326</longitude>
+                    <latitude>23.431411347518747</latitude>
+                    <altitude>1907.010897385743</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>1540.9648309945544</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.58386547670192,23.43094582140451</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.58539131346231,23.428284807121397 120.5853476915901,23.42828681400967 120.5852996344709,23.428346014226467 120.58489296378436,23.428693403915155 120.58457281905581,23.428890221187242 120.58415265353709,23.428923598440566 120.58379843945639,23.428919583425248 120.58360301015276,23.42884754470226 120.58347672302652,23.428792710976207 120.58345565575922,23.428884400860127 120.58339879657679,23.42902430565441 120.58316195222518,23.429194478046615 120.58317817382425,23.42920183498349 120.5828878623148,23.42940663060958 120.58261861733092,23.429600960809275 120.58254817368554,23.429618018725805 120.58243044686903,23.429705657013034 120.58191164463618,23.42997873838243 120.5817852148382,23.43000192337108 120.58159106924742,23.430073778846282 120.58149310432978,23.430147382158562 120.58137155556177,23.430244401894562 120.58131292695056,23.430291110203925 120.58108985045,23.430592025587018 120.58106237688234,23.430666404740954 120.5810167989102,23.430700327171458 120.58087317416387,23.430712493254138 120.58078150922861,23.430736988622588 120.58071423673258,23.430846568868226 120.58066462891594,23.43091876737071 120.58064632263546,23.43099357650782 120.5805610912494,23.431080262735502 120.58050564901681,23.431090949623623 120.58044696226973,23.431121810710906 120.58039677289688,23.431151655172687 120.58033256876594,23.43113527428937 120.58021620902011,23.431082180310387 120.58018861263366,23.431037136351907 120.58002187879453,23.43098237267918 120.57957314740317,23.430933034780956 120.5794159862047,23.43083905903344 120.5793718038002,23.43079681462284 120.57925129215292,23.43072298574224 120.57916391676258,23.43059181401829 120.57879118828153,23.4303994617336 120.57866436521988,23.430385664817766 120.57856477448212,23.430494886099183 120.57840269939531,23.43047268615182 120.57824996210923,23.430484147392214 120.5780039962277,23.430478968201655 120.57786335024471,23.430426755491336 120.57776377407451,23.430380162419794 120.577630477801,23.430315688671197 120.57745280586607,23.430351508467986 120.57740795969907,23.43054295981648 120.57744324665198,23.430686633869456 120.57756170067996,23.430864032873068 120.57756142021931,23.430913878147386 120.57756619343832,23.430923959829492 120.5775803072163,23.43095388809774 120.57762899081196,23.431008605910588 120.57766783692021,23.431110164143288 120.57771332160264,23.43118279887555 120.57771901321928,23.431277991669013 120.57772902774177,23.431366467985022 120.5777092313233,23.43141549342503 120.57771020844358,23.431488322430226 120.57774638678347,23.431560977380567 120.57772171982248,23.431707649797275 120.57772274614963,23.431711129365613 120.57777975463901,23.431903984877348 120.57773547192195,23.432089025853667 120.57773361175371,23.432149206433635 120.57773207845463,23.432248488896604 120.57766986889766,23.432471317505456 120.57768172339121,23.432590455926256 120.5776039842094,23.432708359521836 120.57761894004676,23.43275219566448 120.57766646481055,23.43275421993876 120.57771356724207,23.432769292377554 120.57783295994852,23.432963265200307 120.57790005125885,23.43319366783277 120.5777991347421,23.433320312763062 120.5777067903702,23.433323901434164 120.5774903578119,23.433257441586996 120.57733128040081,23.433608957543736 120.57722884914882,23.433796234422296 120.5771029108881,23.433888046340552 120.57695891786453,23.433978001179508 120.57691917706975,23.434140480848946 120.57699593569761,23.43417748552077 120.57710077340307,23.434156864938434 120.57710552282894,23.434156065351292 120.57727271390449,23.434192502352484 120.57736345914593,23.434188729592748 120.5774845347493,23.4342166446328 120.57766101975895,23.434218703199168 120.57766127737924,23.434220915829044 120.57775358843351,23.434186353757287 120.57787333971204,23.43415385390066 120.57793642260845,23.43415370822732 120.5779556583277,23.43417800540693 120.577960083798,23.43418966720447 120.57796309156802,23.434201143580918 120.5779598296484,23.434246691535293 120.57790067801868,23.43433561326141 120.57789372262725,23.43441939280303 120.5778988324367,23.43448054085411 120.5779343653641,23.43452258070079 120.57797118458595,23.434578802000225 120.57797069285743,23.43458561962761 120.57809544708611,23.434332030474962 120.5781696240602,23.434208202894347 120.57824687631741,23.43410817792559 120.57846667837912,23.43406592447233 120.57871884067275,23.434074189514412 120.57874494322189,23.43405498026214 120.57881509531084,23.433838944679568 120.57880840618998,23.433791112525917 120.57881654402328,23.433766347657976 120.57881100513342,23.433713822355166 120.57889737067332,23.433586641289228 120.57892406599571,23.433571588220996 120.57896295691289,23.433533044508287 120.57900856065491,23.433505309306963 120.57901982147531,23.433469264622598 120.57903201798524,23.433287566621285 120.57895109794177,23.433183187110807 120.57887935769283,23.433146782396456 120.57882198275665,23.43295008946516 120.57890438635921,23.43286714421821 120.57895226839686,23.432594339648215 120.57894092055766,23.43254500465313 120.57899926061664,23.43249418726893 120.5789834660279,23.432379643769476 120.57888854058201,23.43224370990062 120.57889688839363,23.43223732202846 120.57892224662076,23.432218019936666 120.57908455834588,23.432376303335086 120.5791021387061,23.432438297435997 120.57942021849512,23.432303929052317 120.57967083463872,23.43217795690456 120.5798473336795,23.432078739859712 120.58032392855651,23.431809390536078 120.58059170085595,23.431645221394877 120.58086938254439,23.431513360435215 120.58102635986432,23.431385102777305 120.58109713326029,23.4312871800746 120.58110925764589,23.431270326435218 120.58139455391209,23.431075411112165 120.58162011570194,23.43084154884336 120.58172950369409,23.430756146194888 120.58182717070888,23.430959359580136 120.58186272196961,23.43103286821062 120.58195646761956,23.431146447679954 120.58203015509656,23.4314554284059 120.58209963436086,23.431659920245973 120.58208639616274,23.431947176635617 120.58208270644135,23.43202346994005 120.58206567442305,23.43211661526465 120.58202476142922,23.432347630349664 120.5819766624523,23.432509411217232 120.58192478823088,23.43267673449402 120.58186274707835,23.4328342341362 120.58174482788571,23.432818837069945 120.5817567630137,23.43284659102693 120.58163956413479,23.43289594306362 120.58162141325398,23.43298371124687 120.58150874262469,23.43312102832216 120.58142242517224,23.433143733445984 120.58134286989974,23.433227093117225 120.58126853257761,23.433140431050138 120.58116824009083,23.43308394946318 120.58111753249203,23.43311334191152 120.58115196296423,23.433249337593494 120.58110511090231,23.433286641042045 120.58115098056577,23.43328942843859 120.5812413144647,23.43335080343791 120.58127934617082,23.433334606303806 120.58130070071738,23.433337418705513 120.58137993551661,23.433442921167345 120.58146347902805,23.433574081378115 120.5814558713965,23.433635871507718 120.58137513437839,23.43368094103053 120.581318934391,23.433777999650946 120.58135221167126,23.4338327203964 120.58139136307459,23.433821537141426 120.58141730603543,23.433832442516483 120.5815275530684,23.433977085211904 120.58153079759339,23.434006576986423 120.58155619155957,23.434033509178935 120.58156357655139,23.434062650437795 120.58160902205785,23.434091352056576 120.58162621227412,23.434094242484317 120.58163315667476,23.43409543515572 120.58174678777662,23.43417100644622 120.58179792823394,23.434219995426833 120.58177382172461,23.434289462012767 120.58172207302506,23.43430598412802 120.58174157354053,23.434338363809367 120.58178929101625,23.434363460045205 120.58182794940315,23.43440167055311 120.5818814999865,23.43441404927383 120.5819357104672,23.434442323432044 120.58194270072326,23.434517743623367 120.58193006944816,23.434541820363737 120.58197969683317,23.43459590692953 120.58201882853905,23.434661028188312 120.58219182735364,23.43479323991775 120.58222454730847,23.434776352084643 120.58227239667417,23.434818649334726 120.58240244860943,23.434847984077905 120.58243103745878,23.43488291769761 120.58243093102614,23.434941701977362 120.58251140683653,23.43494245882542 120.58254560328521,23.43495406391124 120.5825536710679,23.434863875157124 120.5825698757203,23.4347397104128 120.58275430824656,23.434744854261833 120.58297594750502,23.4349406759333 120.58296876767126,23.435059717732784 120.58268798884983,23.435093056030386 120.58257699749109,23.43510373133579 120.58254655973161,23.435163519353317 120.58252188615681,23.43521248695607 120.5824508341872,23.435244669785785 120.58242910206748,23.435283981915486 120.58226591621941,23.43527397441672 120.58213399923542,23.43525872175799 120.58211742104014,23.435252490856243 120.58212728825559,23.435363722964 120.58221528655085,23.43541538556537 120.58229506073553,23.435416862308003 120.5823495742686,23.435387932080072 120.58258244485586,23.435301368919074 120.58265601537663,23.435229144682825 120.58273602527069,23.43522886229993 120.58288625457537,23.435204475341045 120.58309235854033,23.435089801699682 120.58318700870284,23.43507213038186 120.58312924067427,23.434922031043268 120.58310245802032,23.434844707728384 120.58300594636657,23.43466181739276 120.58291277416832,23.4344000576457 120.5829000834323,23.434210842992844 120.58294390892594,23.43407745026737 120.5829906454071,23.433973909995 120.58299759433065,23.433858298956203 120.58301552116414,23.433741723195087 120.58308042180686,23.433564500208135 120.58324876298013,23.433434240350874 120.58325701159461,23.433428437446057 120.58336009150418,23.433368708500737 120.58344596130355,23.43324359928021 120.58350920221358,23.433019506176972 120.58361370816134,23.432931019430644 120.58382899870843,23.43263450363086 120.58395893506224,23.432524999803647 120.58403603923114,23.43240821994806 120.58449116283735,23.432404375442182 120.5845412728287,23.432402838481153 120.58496414931867,23.432365178281216 120.58535859398441,23.432384602694462 120.58540215524081,23.432374333380608 120.5861069795812,23.43234667479409 120.5860960656463,23.432713403105307 120.58620668433,23.43289736843206 120.5863531020703,23.433088967580062 120.5865540119147,23.433193210256288 120.58656170555203,23.43319584957354 120.58655552689713,23.43316869824798 120.58658237061165,23.43315617083777 120.58665722915944,23.43316449668091 120.58665693383685,23.433139798289996 120.58661498575383,23.43312072531982 120.58659761502483,23.433095483916194 120.58658510509304,23.433028900151943 120.58656582531324,23.433003971469795 120.58653121528974,23.433012322126235 120.58653740546076,23.432986873853455 120.5866030236228,23.432970839255006 120.58656360534715,23.43293899445696 120.58664827100951,23.432891855310913 120.5866381214023,23.432876387151072 120.58672484745168,23.43278658636616 120.58674143501159,23.4327709635606 120.58675158675095,23.43274764690414 120.58672900561314,23.432734900984464 120.5867362534813,23.43271089881779 120.58676185521189,23.432685367285053 120.58679082170157,23.43267311783922 120.58684545986152,23.43265046053359 120.58674456569926,23.432520883680912 120.58676270004268,23.432475194836766 120.58678028032878,23.432451581623486 120.58676288448804,23.432417267002545 120.586773951254,23.43238320773222 120.58677166884391,23.432341347090098 120.58678213218248,23.43229044544548 120.58679661777242,23.432247093501104 120.58686446290648,23.43215819130208 120.58696966129934,23.43211815068263 120.58702875509553,23.432107245737008 120.5869984958935,23.43206476946408 120.58714666093184,23.43202619645108 120.58721988897618,23.431988959321178 120.58721388868085,23.431918463603324 120.58718795779643,23.431900334811264 120.5871758122134,23.431872446070567 120.5871978215041,23.431834351868677 120.58721274742561,23.431822652250386 120.58721829043594,23.43176776452994 120.58726841521059,23.431687437627353 120.5872483561203,23.431674066019113 120.58732035291592,23.431618901536865 120.58731688462774,23.431594917978853 120.58735403728804,23.431553928612818 120.58735060997408,23.431542180478935 120.58742722953409,23.431485719469563 120.58742014300432,23.431448135384127 120.58747902208667,23.431372258544094 120.5875099322931,23.43134204464554 120.58752969585076,23.431316586784302 120.58759719326115,23.431309540657544 120.58758215315426,23.431277715100034 120.58759450291893,23.431238375860712 120.58762800738684,23.431201396787383 120.5876597916515,23.43120166074644 120.58772844508898,23.4311042271834 120.58784588710776,23.431039836876774 120.58782250760567,23.43101796730989 120.58789084928677,23.430948164061515 120.58792960999865,23.430974138038312 120.58796158128412,23.431042128724997 120.58812131617911,23.43118052932679 120.58823237647012,23.431305979067524 120.58851874479227,23.431259552236835 120.58853189140585,23.431044850492118 120.58866367626936,23.430959232702776 120.58878110175866,23.430904728829887 120.58889440983185,23.430748084499278 120.58900311288764,23.430732567741966 120.5890174067573,23.430581847645712 120.58900652752733,23.430383067095732 120.58903686111064,23.430231983761566 120.58864519410245,23.430233662221436 120.58865237643597,23.430034793030675 120.5887191237115,23.429886920858245 120.58869465159611,23.429718445435853 120.58874443587851,23.429503976314166 120.58869208084117,23.42928892196075 120.58868450548714,23.42920532894882 120.58866688870644,23.429054299382422 120.58874659604643,23.42884668262766 120.58879891877037,23.42884758746925 120.58886045136997,23.428866893003033 120.58892218462572,23.42880876711821 120.58899301818956,23.42869544497576 120.5890439987488,23.428427610575774 120.58904777908435,23.428407709948825 120.58924344026883,23.42764838864947 120.5892425112748,23.427638633639102 120.58922066448297,23.42741061187585 120.58885695516894,23.427405590924742 120.58872159740122,23.427437425805756 120.58879778258961,23.427624730123842 120.58863556285566,23.427688100022948 120.58852770204315,23.427446396794544 120.58850535198064,23.427452524443897 120.5884113933583,23.427506186770575 120.58837079054817,23.427625231694858 120.58801652554159,23.427780969421352 120.5878430081915,23.42784701686168 120.58762971725443,23.427903253480938 120.58749700816507,23.42790746305828 120.58722175573654,23.42798331138104 120.58699053484767,23.427847925230626 120.58663796587688,23.42774544987866 120.58651059977763,23.427639506351625 120.58616796635,23.427662076929533 120.58587064413182,23.42764900647281 120.58539131346231,23.428284807121397</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                        <innerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.58713790725847,23.427978122651997 120.5871381842261,23.427992752231294 120.58712397493794,23.427992985481882 120.58712311077663,23.427978174327258 120.58713790725847,23.427978122651997</coordinates>
+                            </LinearRing>
+                        </innerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A12303.29">
+                <name>A12303.29</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0037-0032&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9,775&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500370032&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;37-32&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.59278617636856</longitude>
+                    <latitude>23.43679285993761</latitude>
+                    <altitude>334.5401062631451</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>270.3259530479816</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.59280766530613,23.436666116506938</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.59304180308119,23.437761505579328 120.59358657401039,23.43726369706697 120.59288436720716,23.436511919187623 120.59292189524545,23.436274976631914 120.59285727824627,23.436099670638875 120.59283272211295,23.43603486087533 120.59281579516778,23.436030345892704 120.59256202031078,23.435962455339478 120.59204533817065,23.435824210215664 120.59198579045857,23.43596352402694 120.5919881846249,23.435964524325296 120.59214619310706,23.436027921807614 120.59216007177201,23.4361264307312 120.59235609020861,23.43604643944234 120.59242557096694,23.43619439794325 120.59223320938482,23.436275302115494 120.59244922641551,23.436446083542325 120.5924246382736,23.436578444384423 120.59252886460031,23.43698060012545 120.59264600064942,23.43701224079218 120.59270392840202,23.437016681177802 120.59283680312532,23.436972554234067 120.59303821881328,23.43712148892459 120.59316189822981,23.43725039946523 120.5931727881705,23.43731670923596 120.59317949980534,23.43746450381063 120.59304102741487,23.43759936845982 120.59304180308119,23.437761505579328</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A12303.30">
+                <name>A12303.30</name>
+                <description>&lt;h4&gt;A12303&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;磅號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;學校名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;實驗林管渚&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;森林暨自然資源學系&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;林場&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口林場&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;縣市&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;貽鎮市區&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中埔鄉&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社口段&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地段代碼&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD0825&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地號&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0003-0003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;面燒（平方&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;448&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;顥利瘩圍&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;全部&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;QD082500030003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CHKOBJ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;LANDNO1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3-3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;國立嘉義大學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.58165557457644</longitude>
+                    <latitude>23.441195824479877</latitude>
+                    <altitude>109.95560722152642</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>88.84989799025246</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ff0cb739</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.58164934618136,23.441183270775312</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.58206968481663,23.44131939481054 120.58193197205215,23.44122353407632 120.58153815597221,23.44112197284586 120.58149565380874,23.441113687427215 120.58129858424896,23.441072253056834 120.5812972832745,23.441075139325836 120.58127214797729,23.441097737565766 120.58125221577794,23.441103011207844 120.58124146511078,23.441123074485038 120.5815307978445,23.44116823308902 120.5818031506707,23.44124752496728 120.58181418701926,23.441245386432772 120.58187270068206,23.441266222331453 120.58193904594353,23.44129732796352 120.58206968481663,23.44131939481054</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

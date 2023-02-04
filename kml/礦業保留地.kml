@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:A22203</name>
+            <LookAt>
+                <longitude>120.74558049710372</longitude>
+                <latitude>23.384380396303456</latitude>
+                <altitude>399865.84743389575</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>323112.57835818705</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="A22203.8">
+                <name>A22203.8</name>
+                <description>&lt;h4&gt;A22203&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Issue_Date&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2013-01-08&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Minerals&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;058&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;中崙南方地方&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Item_Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1330&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1331236.77316&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.56442881308641</longitude>
+                    <latitude>23.359238072505292</latitude>
+                    <altitude>3368.750086829489</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>2722.1267667271504</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb2b2b2</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.56442946602678,23.359237774335362</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.55523767931663,23.354284655540415 120.56901531883749,23.368104588378063 120.5736211755652,23.364190555210662 120.55984344883336,23.35037101988339 120.55523767931663,23.354284655540415</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A22203.9">
+                <name>A22203.9</name>
+                <description>&lt;h4&gt;A22203&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Issue_Date&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2013-01-08&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Minerals&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;058&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;觸口村地方&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Item_Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2830&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2823128.33098&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.62870120480054</longitude>
+                    <latitude>23.44604014791605</latitude>
+                    <altitude>4241.250770470228</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>3427.153083227074</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb2b2b2</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.62703875045123,23.445678193301656</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.64291896600375,23.44603046638392 120.6309880214162,23.437831948665366 120.61448521007371,23.44338898508124 120.61877977576079,23.454247059453827 120.64291896600375,23.44603046638392</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A22203.10">
+                <name>A22203.10</name>
+                <description>&lt;h4&gt;A22203&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Issue_Date&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2013-01-08&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Minerals&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;058&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;西勢角、土地公崎地方&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Item_Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3030&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3040088.56825&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.4320150752933</longitude>
+                    <latitude>23.27429956937847</latitude>
+                    <altitude>5365.42466866773</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>4335.544557769339</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb2b2b2</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.43201612361,23.274299756193347</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.44152886978856,23.28947075629584 120.42993172210191,23.256872177502466 120.42250376986031,23.25912730127442 120.43409927913154,23.291726387993005 120.44152886978856,23.28947075629584</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A22203.11">
+                <name>A22203.11</name>
+                <description>&lt;h4&gt;A22203&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Issue_Date&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2013-01-08&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Minerals&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;058&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;枕頭山、麒麟尾、水火洞地方&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Item_Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2330&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2370066.65351&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.48623228695523</longitude>
+                    <latitude>23.329282260991036</latitude>
+                    <altitude>4666.913747833001</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>3771.1110956703483</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb2b2b2</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.4862336294025,23.329281542572502</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.4722336789658,23.323890932771523 120.49554278917424,23.340340143466193 120.50023322560013,23.334671651888247 120.47692449789086,23.31822313460579 120.4722336789658,23.323890932771523</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

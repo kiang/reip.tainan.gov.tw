@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:A_D01</name>
+            <LookAt>
+                <longitude>120.31438888477871</longitude>
+                <latitude>23.131198286270063</latitude>
+                <altitude>79539.75144475461</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>64272.29116018133</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="A_D01.1">
+                <name>A_D01.1</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新塭&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;永華&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0001&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.15813056224141</longitude>
+                    <latitude>23.292720800832257</latitude>
+                    <altitude>11534.804866331684</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>9320.727351777981</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.1844137514797,23.27368029391972</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.17094623536673,23.320888947217426 120.16845617317472,23.31429935440777 120.16658456839959,23.309652585967726 120.16660609199033,23.308440908567807 120.17087599648667,23.306694033916415 120.17403713933655,23.30596823340937 120.17874642259632,23.306112113056404 120.18457493385283,23.30446829002341 120.18905256787345,23.302148165461265 120.19192255282928,23.301498742999716 120.18409643467133,23.28922654742772 120.18443420288514,23.272678321363536 120.18016192830285,23.266302548800557 120.17202708010585,23.27272080035386 120.17085112415904,23.27345792679259 120.16764145616295,23.273991705128655 120.16486066621808,23.274423809834097 120.15148243797577,23.274093376950155 120.14301555515851,23.27270809170779 120.14066364326483,23.272390363703813 120.1357449481151,23.267192623129024 120.1344851188397,23.266343061014254 120.12975405783737,23.265050238708 120.12759626514227,23.26546886825648 120.12435287488007,23.264545418973995</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.2">
+                <name>A_D01.2</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;永華&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;21.168&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0002&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.15985170316613</longitude>
+                    <latitude>23.260906671942166</latitude>
+                    <altitude>9750.9802275651</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>7879.3034790727315</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.165799901166,23.27443135996112</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.12427246024548,23.264631607844443 120.12751585050768,23.265616619547842 120.12987467978928,23.265259553646626 120.1345119237179,23.266564686435952 120.13579855787151,23.267401934702466 120.14058322863022,23.272511497594706 120.14303819597502,23.2728208668135 120.15117807290717,23.27425859349459 120.16167866777369,23.274423809834097 120.1648053271147,23.274563608115162 120.16802244383663,23.274135829261223 120.17137684564115,23.273470635825447 120.17280527689,23.272279169194906 120.18014809352698,23.266353387655002 120.19271481568956,23.255067497904683 120.19543823991866,23.253935395782033 120.19194119798286,23.24756915439012 120.19223817326387,23.24724171808678</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.3">
+                <name>A_D01.3</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;佳里一路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;86.94&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0003&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.19180650815312</longitude>
+                    <latitude>23.206425758395753</latitude>
+                    <altitude>11319.238962374255</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>9146.538794588652</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.1927395955484,23.205299773160164</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.19225203211029,23.247062840507464 120.19100407598494,23.24540866630583 120.18641877764604,23.240846847220507 120.18762307158708,23.239879088452245 120.18851740296525,23.238627429144792 120.18929147244339,23.232560240987198 120.19054015635439,23.22196819629564 120.19156459633069,23.21446510847096 120.19273434597346,23.205315876989715 120.19870374684473,23.187003877388268 120.19686410602834,23.18244613374815 120.19641730495128,23.17955232884144 120.19527809605489,23.177190821962505 120.19206638752054,23.173435869586825 120.18827124421416,23.17006366870238 120.18518110095506,23.166578290758306 120.18491346282006,23.16578837576764</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.4">
+                <name>A_D01.4</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;佳里二路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;44.33&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0004&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.19197346970255</longitude>
+                    <latitude>23.206303163180863</latitude>
+                    <altitude>11296.869677014573</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>9128.463238711649</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.19299265664732,23.205335424890023</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.19259586349125,23.246868197174045 120.18990328761001,23.244030374260372 120.18665635787089,23.24077408000013 120.18778486393875,23.239955446036124 120.18867578978181,23.238718389627497 120.18941143724928,23.231475798427248 120.19078301075949,23.22264869870465 120.19124235655812,23.22059984364851 120.1916897106315,23.215617237859746 120.19243191424843,23.21040989420656 120.19300472502871,23.205226211405847 120.19746700153163,23.19155118730604 120.19879919405568,23.18698220993276 120.1971477509433,23.182369601473848 120.1966789575623,23.180039388505293 120.19240446210308,23.173348281028076 120.18936179086003,23.170932509479805 120.18556663871155,23.166715482696368 120.18523402542516,23.166189034958684 120.18515188784878,23.16573783487171</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.5">
+                <name>A_D01.5</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;麻豆&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;佳里&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;100&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RMK&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69kV系統連絡線，經工程單位勘查可有條件同意&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0005&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.21664595137084</longitude>
+                    <latitude>23.171479351344885</latitude>
+                    <altitude>8067.858641089784</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>6519.2529546621245</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.21753086832302,23.168978445305328</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.1853398743654,23.165913311415963 120.18646124316946,23.167801260954572 120.18934449260382,23.17118439845889 120.20889462421108,23.168035160741827 120.21578654143316,23.168443897713043 120.22010637886665,23.16976770846924 120.2387884759458,23.169407543162297 120.24526745177246,23.170306622043636 120.24688937095439,23.174136191086983 120.247954630418,23.17703920298945</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.6">
+                <name>A_D01.6</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;隆田&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;麻豆一路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;60&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;17.835&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0006&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.28275595482333</longitude>
+                    <latitude>23.184097629790514</latitude>
+                    <altitude>9338.586539610778</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>7546.06774846788</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.28440391562347,23.17774617806439</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.24803549511101,23.176963084051273 120.24838461275479,23.174265925320096 120.24922683702515,23.172582240094002 120.25119960874916,23.17334413840549 120.26042246166972,23.174286217250756 120.26920613111784,23.174689963297496 120.2879446259405,23.178458201001163 120.29768628128762,23.1799101638402 120.3044167476763,23.186813041214304 120.30692522315242,23.1897345405931 120.30862683236725,23.191496928123964 120.31042430688996,23.193424512893113 120.31448659931131,23.192763629816543 120.31748239018249,23.195605403871895</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.7">
+                <name>A_D01.7</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;隆田&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;南化&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;40&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13.7&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0007&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.41131577935411</longitude>
+                    <latitude>23.141954853783517</latitude>
+                    <altitude>28796.274393728796</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>23268.900122823627</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.43516339075576,23.15051520415772</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.31758337451444,23.196063104998316 120.31755626719676,23.197545600404684 120.31840603944244,23.198723938748156 120.31906758350837,23.200115700311386 120.31913373791497,23.200730502989778 120.31962622071964,23.20103452524743 120.32088315444496,23.200993988986358 120.32204453180522,23.20115613395689 120.3244922448493,23.200629162083573 120.32638867117173,23.200061651589063 120.32748390354257,23.199199444690866 120.32778526419986,23.197690242384944 120.33069605809008,23.198453692104565 120.33341573925019,23.197230819213633 120.33640329040057,23.195661690098632 120.3410542575327,23.192241632933403 120.36192779802188,23.175157185060964 120.36380678874326,23.17363504063499 120.36555555238495,23.170043395293053 120.36771107387662,23.16906464472207 120.37299709979642,23.16689635064629 120.4030640327032,23.154988479688964 120.42426927455527,23.150406368185436 120.42739240493907,23.149411926345312 120.43063357314547,23.14974389639504 120.43711795284106,23.150848014226188 120.44231711851351,23.153358897022684 120.4465227432966,23.156329385560138 120.46183061133968,23.1711945894937 120.46363122985099,23.171686340943502 120.46859167861524,23.166846763243395 120.48023354816411,23.141901550896208 120.4905593802857,23.131940784740205 120.49313267431218,23.125360928091446 120.5020477665614,23.109412971984494 120.50249291445043,23.095010488774374 120.50449696772873,23.087875720228663 120.50515817836055,23.08269807734138</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.8">
+                <name>A_D01.8</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;官田二路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;60&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23.51&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0008&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.30100475893632</longitude>
+                    <latitude>23.25621036854203</latitude>
+                    <altitude>13343.895477067537</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>10782.567455076833</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.29881907184662,23.257689272680484</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.29605289062812,23.30125010674803 120.29523708460897,23.301295191536074 120.28351179729245,23.2959749761567 120.28264713383886,23.294182490461928 120.28160033146365,23.292197504089234 120.28232608111962,23.291021563734898 120.28636300806153,23.284302288094796 120.28897018527844,23.27973345082585 120.2917396806383,23.27749466770319 120.29290611985067,23.275783422597332 120.29927999251177,23.25627881515933 120.3091051887729,23.24068439924251 120.31312783355669,23.211123159966203 120.3204223152188,23.211812876075044</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.9">
+                <name>A_D01.9</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新東&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;白河&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;50&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;27.77&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0009&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.36637970321236</longitude>
+                    <latitude>23.34136192597994</latitude>
+                    <altitude>12199.35101478573</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>9857.715496284338</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.35047265104546,23.36013868240515</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.33635222683981,23.32258504204909 120.335575363829,23.322210211672797 120.33431131554022,23.32172655801222 120.33128808382898,23.32417555011702 120.32953918637297,23.32525809283644 120.32740553147666,23.326302559760027 120.32661140248368,23.326507169630716 120.32310065277571,23.327220922526923 120.32670397169801,23.33100873175904 120.33098796438901,23.334574733245326 120.33458400703427,23.337781875958413 120.342300725576,23.352264248347854 120.34694164448736,23.360985397875655 120.39215021398827,23.350144637722455 120.40581967115436,23.35031423150424 120.40725030086612,23.350252933063494 120.40967155222928,23.349551918342325</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.10">
+                <name>A_D01.10</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新西&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;49.99&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0010&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.23696202571135</longitude>
+                    <latitude>23.274605300735416</latitude>
+                    <altitude>13522.825384700815</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>10927.152205617045</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.23920247529472,23.270636649252584</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.19227776996802,23.24760553615199 120.19328748592349,23.249333658408844 120.1955961256217,23.253572746001293 120.19825386828946,23.25362109936238 120.23100414518883,23.26202011350387 120.23581152093976,23.265633627001606 120.24302258456618,23.276272847704625 120.25897433137608,23.28711193443091 120.26335773647307,23.290631652059524 120.26917210074136,23.29663335756624 120.27431143632742,23.300160949236616 120.28146024966532,23.29971744792566 120.28166439571724,23.301592410721696</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.11">
+                <name>A_D01.11</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲一路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;62.47&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0011&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.24400633279978</longitude>
+                    <latitude>23.274426241455046</latitude>
+                    <altitude>15053.984278145548</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12164.408903361866</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.24344134739113,23.275107800631286</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.29589439713634,23.30126628079217 120.28382412001164,23.299317081703087 120.27430059973473,23.300230618939374 120.26920279208295,23.296450128518195 120.26400060968176,23.290713522264607 120.25591509226186,23.28430188555917 120.24491360490177,23.276903600275233 120.23477979575574,23.26454279333442 120.23100414518883,23.262220866824077 120.19791178259956,23.253814512631383 120.19554349705402,23.25388704253493 120.19213918150352,23.247569152268785</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.12">
+                <name>A_D01.12</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲二路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0012&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.24415399509292</longitude>
+                    <latitude>23.27421011622694</latitude>
+                    <altitude>15063.532198894289</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12172.12412413124</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.24327089541252,23.275765892922845</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.29597205459093,23.301234274393188 120.2836810159515,23.29936636947429 120.27431143632742,23.300131090781413 120.26908002671655,23.296365561180153 120.26400060968176,23.290910854350475 120.26094556575669,23.288129292772705 120.25299897885242,23.282595939753634 120.24382573202999,23.276473664203223 120.23504269335712,23.26526967670226 120.23317655287194,23.26278664990237 120.23172263327002,23.261991007745603 120.19799949371564,23.253535630680716 120.19374284802103,23.2496610895763 120.19235696337628,23.24716895435465</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.13">
+                <name>A_D01.13</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;山上&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;善化一路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;55&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CP_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;16.81&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STATUS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已籌設&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0013&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.33494349490473</longitude>
+                    <latitude>23.10999362436847</latitude>
+                    <altitude>11590.10406896959</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>9365.412008044954</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.33253345736532,23.11536366048973</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.30388161608573,23.130801348717362 120.30533645527164,23.130969691797457 120.30624211675159,23.130712747011387 120.3062613861448,23.130951971483185 120.30747046602661,23.140907555548594 120.31101051306509,23.14092424897786 120.31465948462785,23.137602215604897 120.32086818251078,23.131992967427067 120.32275620759796,23.13007308157046 120.3255700911414,23.124897600210375 120.32745811622861,23.1214082113887 120.33194731428405,23.116009542954156 120.35602566421508,23.089477140730693 120.35957607126974,23.085495676299253 120.36366483186629,23.083661241781897 120.36453620707539,23.081503051478055 120.36601969007256,23.07905691783334</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.14">
+                <name>A_D01.14</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;山上&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;善化二路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;55&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0014&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.334905727668</longitude>
+                    <latitude>23.109908788210376</latitude>
+                    <altitude>11573.70720824043</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>9352.16248453306</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.33249961083625,23.11516220871131</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.30386234669254,23.130872230039998 120.30527864709207,23.131031712878972 120.30639627189714,23.130686166488182 120.30649858083522,23.13095189153124 120.30767016098777,23.140740621141664 120.31082897219133,23.14077400803968 120.31386070478328,23.138069642361984 120.31854087837131,23.133702673046933 120.32065033346225,23.13192618924989 120.32250205037468,23.12990613367552 120.32754023586575,23.121009292877915 120.33107645447684,23.11671339402384 120.3519577805298,23.093953557365438 120.35557109675098,23.089796479241873 120.35935822746747,23.0855110916093 120.36353077414182,23.083537917554988 120.36449948409965,23.081374841866996 120.36596338614764,23.079037493720097</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.18">
+                <name>A_D01.18</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;18&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;柳營一路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;161&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;300&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0018&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.32066427754847</longitude>
+                    <latitude>23.293439215243183</latitude>
+                    <altitude>6121.363371084289</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>4946.382679569515</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.31919227470459,23.285919995588046</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.2979255864208,23.301083378068732 120.30264794934324,23.29796659144392 120.30449234162128,23.29571508252065 120.31694494218034,23.285959881342837 120.32641680135853,23.285791774376676 120.33835386623689,23.288193379347845 120.33847191268089,23.290478921804873 120.3415079443064,23.29053270785085 120.34340558159874,23.290333507461042</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.19">
+                <name>A_D01.19</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;19&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;下營一路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;161&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;150&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RMK&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已扣除含能源局預定核定共同升壓站容量&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0019&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.28621568203229</longitude>
+                    <latitude>23.275150136499306</latitude>
+                    <altitude>7577.432421405359</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>6122.962845482721</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.2910936586283,23.274741098930654</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.29700284437529,23.300838017874064 120.29590987625724,23.296032594067615 120.29572919563935,23.293906829417956 120.29397464172023,23.29222592679592 120.28970102463508,23.28859491188578 120.29046034679929,23.285787895716584 120.29160722147252,23.282410898981073 120.29254360907628,23.277632282856754 120.29129509227128,23.27679122867363 120.29091253007877,23.272897628191615 120.2855371105825,23.26631341244115 120.27979897805498,23.25725874720856 120.27543267965085,23.24946151820858</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.23">
+                <name>A_D01.23</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;26&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;隆田&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;80&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0026&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.30364232884162</longitude>
+                    <latitude>23.248456598000345</latitude>
+                    <altitude>14825.84230808685</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>11980.05822512704</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.30327280286349,23.24949510576529</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.29706830093063,23.300822988383796 120.29603699630661,23.29612926152993 120.29590719405324,23.29384675017864 120.28989643410523,23.288509854351414 120.29082499008754,23.285313868479026 120.29179984142212,23.282390563923705 120.29353434817224,23.274315327333277 120.29924390462088,23.255970181562862 120.30893947959933,23.240387861259368 120.30960317715308,23.237406258121204 120.31328464798038,23.20923846056102 120.31459113532874,23.198791500323697 120.31602448080498,23.197109206933433 120.31739902236426,23.19608901067117</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.24">
+                <name>A_D01.24</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;27&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;官田&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;隆田&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;70&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0027&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.31674484212769</longitude>
+                    <latitude>23.203793055940878</latitude>
+                    <altitude>2332.3784350396336</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>1884.6841126567451</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.31360216020369,23.206578065316602</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.3204223152188,23.211564578686033 120.3130677966706,23.210957627570274 120.31377318691217,23.205176356422818 120.31456908385985,23.198730694907248 120.31593627492951,23.19707542572486 120.31731816697841,23.196021447729965</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.33">
+                <name>A_D01.33</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;41&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;善化&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;山上&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;100&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0041&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.33206059163749</longitude>
+                    <latitude>23.104443009733714</latitude>
+                    <altitude>11035.36454339923</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>8917.153374369398</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.31037284343617,23.083097685129946</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.3037155218932,23.130652150171343 120.30318899722847,23.126916855505353 120.30193536707439,23.118592769218328 120.30078202733266,23.1161715391522 120.3011330437758,23.113957804869834 120.30236160132678,23.112020757424943 120.30169897368182,23.108219616340595 120.30246920079001,23.107727651486005 120.30206768327837,23.106309518424023 120.30303712369943,23.103337251366543 120.29907857531333,23.086914290361307 120.30346152757195,23.083033188101084 120.31588404872666,23.083149116199465 120.31838279083439,23.08285887717948 120.32105649667287,23.08279686928726 120.3253699069058,23.080514310656824 120.33412226799842,23.080938169440973 120.33593881520048,23.080829654060565 120.35715259322586,23.080682835174606 120.35692535407975,23.07822701395865 120.36297926559168,23.079415856550842 120.36473188667394,23.079291764123994 120.36505548535827,23.078707283365652</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.34">
+                <name>A_D01.34</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;44&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;隆田&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;麻豆二路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;69&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;60&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0044&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.28266374286422</longitude>
+                    <latitude>23.18422178690814</latitude>
+                    <altitude>9328.2166738265</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>7537.688352997402</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.28443083872138,23.177751592193623</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.24794688290254,23.17695403286862 120.2482402343196,23.174159742194373 120.24918745382135,23.17280852686814 120.25119960874916,23.17334413840549 120.26042246166972,23.174286217250756 120.26920613111784,23.174689963297496 120.2879446259405,23.178458201001163 120.29766789038253,23.18001160142223 120.30448065780156,23.18704685489691 120.3067934083541,23.189767585572945 120.30857889971334,23.191540987514674 120.31041232372652,23.193490601021132 120.31448659931134,23.192840733010442 120.31738652487464,23.19562743289224</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.35">
+                <name>A_D01.35</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;45&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;柳營二路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;161&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;300&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0045&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.32050927528223</longitude>
+                    <latitude>23.29337280858546</latitude>
+                    <altitude>6166.363091716893</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>4982.74481415117</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.3190917566635,23.285862863168575</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.29759229174945,23.301045114214233 120.30253837193885,23.297990018183487 120.30426271317249,23.295792158303136 120.31694494218034,23.285909501256427 120.32671868553565,23.285697173314343 120.33852474145267,23.28810146031752 120.3385633657094,23.290378879716243 120.3414656153786,23.290496486433536 120.3434289019195,23.290300475180306</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_D01.36">
+                <name>A_D01.36</name>
+                <description>&lt;h4&gt;A_D01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;46&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;START&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;END&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;下營二路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;VOLT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;161&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RM_CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;150&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RMK&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已扣除含能源局預定核定共同升壓站容量&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PL0046&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.28618368154852</longitude>
+                    <latitude>23.275192279555185</latitude>
+                    <altitude>7566.277302263801</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>6113.948924111711</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ffff0000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.2910082816851,23.27478798613195</coordinates>
+                    </Point>
+                    <LineString>
+                        <coordinates>120.29683920298693,23.300883106334688 120.29584665337869,23.296032594067615 120.29573984611814,23.293848135354978 120.29406274576107,23.292281950790798 120.28974362655032,23.28863404280843 120.29043590767269,23.285777455225467 120.29136048170346,23.282773341637355 120.29241875739578,23.277632282856754 120.2911078147505,23.276752998811837 120.29091253007877,23.272897628191615 120.2855371105825,23.26631341244115 120.279878439458,23.25730254987989 120.27553226978367,23.24950073373486</coordinates>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

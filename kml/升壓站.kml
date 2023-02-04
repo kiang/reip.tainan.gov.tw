@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:A_A01</name>
+            <LookAt>
+                <longitude>-145.1598364812641</longitude>
+                <latitude>-19.946586183554373</latitude>
+                <altitude>1.2665235150834875E7</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>1.0234174314613154E7</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="A_A01.1">
+                <name>A_A01.1</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;非都容許&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;台灣艾貴綠能股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;鹽水區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;番仔厝段3657地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;660&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;開關站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;核准&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新西S/S~學甲S/S二路之21號&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.24115968100291</longitude>
+                    <latitude>23.274492750539068</latitude>
+                    <altitude>157.98713608176837</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>127.6618926432444</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.24117446935946,23.27450667342101</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.24153927786558,23.274076544513036 120.24146049029822,23.274150518935894 120.24072931014268,23.27479888723908 120.24084027955817,23.274908955391677 120.24159005455262,23.274243087499972 120.24153927786558,23.274076544513036</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.2">
+                <name>A_A01.2</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;都計容許&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;南河一號電力股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;白河區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;永安段650地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2215&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1/19取得農變，辦理中&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0206&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新設一回線併聯至69kV新東S/S~白河S/S線&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.40685061531032</longitude>
+                    <latitude>23.34959315388268</latitude>
+                    <altitude>165.47091220828943</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>133.7091762900315</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.40685422422325,23.349568901240097</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.40726518210268,23.349154166868985 120.40645291603116,23.34913266164826 120.40644991541997,23.349187014107937 120.40644972793989,23.349192190439677 120.40647786549201,23.349234532818006 120.40647909293551,23.349288376590415 120.40646687484221,23.349404625754893 120.40646174137075,23.349468604685065 120.40645576539227,23.34953787084947 120.40644422811849,23.34972405169325 120.40646336094471,23.34971196723435 120.40650728430154,23.3497810967448 120.4064382626842,23.349826527475397 120.4064295670679,23.349980610246483 120.40663073490747,23.349963189474412 120.4066924619927,23.3499676467256 120.406725937793,23.350019939085662 120.40675195504033,23.35003814928891 120.40676650350542,23.35002419058702 120.40675889069706,23.35000022846167 120.40679837927856,23.349981574620596 120.4071169058053,23.350053644991178 120.40719086078876,23.35004371773069 120.40723524880191,23.349646330099922 120.40726659038951,23.349336534632357 120.40726829347388,23.349326923311086 120.40727166647446,23.3492192726745 120.40726518210268,23.349154166868985</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.3">
+                <name>A_A01.3</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;都計容許&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;星曄綠能股份有限公司籌備處&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;官田區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;社子段640-176地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;660&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;連接站(實際為昇壓站)&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已取得農變，6/30請業者補件，未補正&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13.7088&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;隆田S/S~南化S/S&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.37493370291814</longitude>
+                    <latitude>23.19144244058785</latitude>
+                    <altitude>164.4983313019605</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>132.92327990422467</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.37500026595623,23.191495062587162</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.37462221565033,23.191378606527653 120.37484202501449,23.191506418427764 120.3745117311449,23.191854494265485 120.37457061663203,23.191864664282814 120.37467897854054,23.191825285517513 120.37480559645662,23.191829871853816 120.3749925315595,23.19189719565213 120.375204622757,23.191876304368748 120.37525007290238,23.19161116619937 120.37533447763045,23.191460001873747 120.37533889902755,23.19145489885051 120.37535567756112,23.191344532508086 120.37510849344943,23.190987684398607 120.37462221565033,23.191378606527653</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.4">
+                <name>A_A01.4</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;非都容許&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;乾耀能源科技股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;官田區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;南廍段23-3地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;460.3234&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;核准&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營-官田第033號電塔&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.31162998359386</longitude>
+                    <latitude>23.22544791327644</latitude>
+                    <altitude>140.12160676020542</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>113.22560787456759</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.3116289687077,23.225447285826192</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.31161402089693,23.22594420440856 120.31175362433676,23.225913467886528 120.31164082076299,23.224951622047644 120.31150634377012,23.224962594467485 120.31161402089693,23.22594420440856</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.5">
+                <name>A_A01.5</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;台灣糖業股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;七股區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;七股段777地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3811.22
+ 3650&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;核准&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;198.95&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;南濱變電所~七股變電所&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.13266446259111</longitude>
+                    <latitude>23.141594584896126</latitude>
+                    <altitude>583.7181812646869</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>471.6749074554667</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.13264255744963,23.141645278775297</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.13440976074551,23.140395702622996 120.13091711520823,23.14021270931004 120.13091494319093,23.140789304701375 120.13228350328166,23.140785579290682 120.13437976262401,23.14077094050473 120.13438016042244,23.140805912770215 120.13227652252264,23.140821048995708 120.13091470615961,23.14082498972451 120.13091619603954,23.14187478388226 120.13327371683766,23.141864614435523 120.13437763497298,23.14186066753932 120.1343777450873,23.1418962857556 120.13091574430648,23.141910435902517 120.13091687403703,23.14297644117106 120.13389205407918,23.142967003661646 120.13410139655704,23.142967240221406 120.1344141115546,23.142964312767223 120.13441425509576,23.142250658301172 120.13441099058105,23.141770722115258 120.13441181591678,23.141567036507933 120.13440854925369,23.14062052249784 120.13440976074551,23.140395702622996</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.6">
+                <name>A_A01.6</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;台灣糖業股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;七股區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;七股段782地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3811.22
+ 3650&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;核准&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;198.95&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;南濱變電所~七股變電所&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.13266352580936</longitude>
+                    <latitude>23.14027674907983</latitude>
+                    <altitude>443.18365752303004</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>358.115641001701</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.13268433273569,23.14027572643555</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.13440993950981,23.140335385318565 120.13197613503239,23.140208666513306 120.13091759668261,23.140157776300494 120.13091711520823,23.14021270931004 120.13440976074551,23.140395702622996 120.13440993950981,23.140335385318565</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.10">
+                <name>A_A01.10</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新和能源開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;將軍區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;口寮段158地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3773&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12/23聯審再議，未補正&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新設一回線併聯至將軍開閉所161kV側&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.12171303439644</longitude>
+                    <latitude>23.191746517065425</latitude>
+                    <altitude>514.2555084256466</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>415.5454243683073</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.1213423037678,23.191955400836605</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.120528374001,23.191790245704464 120.12053002999092,23.191801243297732 120.12053245402258,23.191888862275082 120.12053366950244,23.19200705250454 120.12052746932902,23.192329141394975 120.12052686324493,23.1924042802697 120.12052439642864,23.192606441939606 120.12057600067229,23.192797663068387 120.1206659696502,23.19308035785606 120.12100523339336,23.193184088339503 120.12125721226604,23.1932605561638 120.12126302131324,23.193260690683896 120.12127590501021,23.193247827537043 120.12133088194751,23.19318577010088 120.12134263109856,23.193159486684984 120.12135182116305,23.193096276144622 120.12137074621108,23.193039106032572 120.12140690532618,23.192996858147783 120.12164164973822,23.19287117026681 120.12183101139635,23.192779304983176 120.1221415455463,23.192633709574483 120.12238099111845,23.19252283650295 120.1227783192839,23.19232834476022 120.12290416222436,23.192248886830644 120.12275984603976,23.192124695323663 120.12238109614518,23.191876070785376 120.12237482585228,23.19187048942786 120.1222134170952,23.191768256591313 120.12218006901522,23.191749988039646 120.12196796429751,23.191642323659224 120.12171267466792,23.191211533403308 120.12171622634106,23.191145293439735 120.12168303929326,23.191096888789012 120.12140301785233,23.190929658108256 120.12124464914906,23.190787222966314 120.12100542501491,23.19060380625822 120.12098271140876,23.190435182586278 120.12092714198509,23.19023771376141 120.12089573567562,23.190232334483486 120.12075730679595,23.19027962451932 120.12061959506683,23.191006695998915 120.12052193354081,23.19120498029509 120.120528374001,23.191790245704464</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.11">
+                <name>A_A01.11</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;恩富資本太陽能股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;北門區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;溪底寮段二重港小段147地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4150&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;核准&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;166.68&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲S/S~佳里S/S線二路與一路&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.1294963833678</longitude>
+                    <latitude>23.248850258088268</latitude>
+                    <altitude>124.2406127809122</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>100.3929317546382</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.12950207489688,23.248868221356737</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.12985993762499,23.249091534361707 120.12985670474133,23.248849344283933 120.12982077508366,23.248546598035276 120.12915555549993,23.248671193452815 120.1291497062584,23.248740240009486 120.12913283076614,23.248939433413202 120.12913743917173,23.24912116122662 120.12914035763384,23.249153917304643 120.12985993762499,23.249091534361707</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.12">
+                <name>A_A01.12</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新勝能源開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲段230地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4972&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;撤案&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.17819765444519</longitude>
+                    <latitude>23.2768872939308</latitude>
+                    <altitude>138.62900718646478</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>112.01950912964439</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.17819322625573,23.27689949107841</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.17829766307078,23.27733009223805 120.17842493066537,23.277345697436523 120.17806674841985,23.27642889009782 120.17798880927688,23.27645835805474 120.17797037978947,23.276464957994104 120.17829766307078,23.27733009223805</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.13">
+                <name>A_A01.13</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新勝能源開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲段231地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4972&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;撤案&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.17829667860626</longitude>
+                    <latitude>23.276874105032945</latitude>
+                    <altitude>145.3516239124079</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>117.45173605668256</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.17829171920908,23.276864154395422</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.17842493066537,23.277345697436523 120.17852661046399,23.27735816453484 120.1781717617659,23.276390045196106 120.17806674841985,23.27642889009782 120.17842493066537,23.277345697436523</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.14">
+                <name>A_A01.14</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新勝能源開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲段229地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4972&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;撤案&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.17808047191552</longitude>
+                    <latitude>23.27689752526551</latitude>
+                    <altitude>131.1026105587593</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>105.93778588238378</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.17807564721817,23.27690170795522</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.17816944907787,23.277310645150546 120.17829766307078,23.27733009223805 120.17797037978947,23.276464957994104 120.17791325650171,23.276485417193534 120.17786328217103,23.276503773127786 120.17816944907787,23.277310645150546</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.15">
+                <name>A_A01.15</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;15&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新勝能源開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲段232地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4972&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;撤案&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.17844609191376</longitude>
+                    <latitude>23.276859461232476</latitude>
+                    <altitude>152.47844882195602</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>123.21058439746801</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.17844096762008,23.276849059107423</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.17859522686169,23.27736657974935 120.17866619405837,23.277375280407348 120.17829720557664,23.276343641750692 120.178225991474,23.27636998506582 120.17859522686169,23.27736657974935</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.16">
+                <name>A_A01.16</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;16&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新勝能源開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲段231-1地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4972&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;撤案&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.17838349352164</longitude>
+                    <latitude>23.2768682825496</latitude>
+                    <altitude>147.21671691910453</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>118.95882903333694</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.17838189516205,23.276876191797452</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.17852661046399,23.27735816453484 120.17859522686169,23.27736657974935 120.178225991474,23.27636998506582 120.1781717617659,23.276390045196106 120.17852661046399,23.27735816453484</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.17">
+                <name>A_A01.17</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;17&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新智能源開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲寮段283-259地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6176&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12/9補件，聯審修正後通過，未補正&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新設一回線併聯至下營D/S161kV側&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.21835614352264</longitude>
+                    <latitude>23.249019904635247</latitude>
+                    <altitude>174.87626783272668</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>141.3091969611892</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.21835594341076,23.249017285129767</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.21797928466226,23.248568830164366 120.21807619132203,23.249010646834694 120.21819202840175,23.2495526832435 120.21850727625377,23.24949770630494 120.21873300539404,23.24945834750589 120.21869067991317,23.24926481786131 120.2185197574858,23.248487125127998 120.21797928466226,23.248568830164366</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.18">
+                <name>A_A01.18</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;18&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;廷捷電力股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲寮段282-300地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2975&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;獲選新設共同
+升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1/20補正，辦理中&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;200
+(260)&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新設一回線併聯至下營D/S161kV側&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RMK&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.本案有條件同意獲選為能源局新設共同升壓站，升壓站容量為260MW，發電設備設置容量修正為87.787MW廷捷一期18.319MW 已獲本部核准籌設 ；廷捷二期 18.025MW 已獲本部核准籌設 ；貝和一期 40.978MW&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.20940878537843</longitude>
+                    <latitude>23.250596048291015</latitude>
+                    <altitude>145.4720686247765</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>117.54906170180277</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.20940904535776,23.250656431024</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.20983687592286,23.250949155925515 120.20940955949375,23.250242939496445 120.20898069710104,23.250777202392037 120.20900526679299,23.2507821314721 120.20983687592286,23.250949155925515</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.19">
+                <name>A_A01.19</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;19&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;非都容許&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;宇太光電股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;宅子港段164-188地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;660&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變電站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10/18函請業者補正&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;39.99&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營P/S~學甲S/S&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.1935044956349</longitude>
+                    <latitude>23.248639644567163</latitude>
+                    <altitude>206.63498442942705</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>166.9719057690556</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.1934973588275,23.24857761492095</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.19392146999544,23.248366797049552 120.19383112825285,23.24833476583072 120.1938079436938,23.248284676766033 120.19390039890501,23.24831768377669 120.19383849723297,23.248168114991415 120.19371609946968,23.2480584750945 120.19364571970387,23.248047118662758 120.19354434322861,23.248025718310572 120.19338202422158,23.24801548515179 120.1932944421671,23.248005187657654 120.1933216655357,23.248108499922388 120.19333521310224,23.248159913894746 120.19338411938053,23.248345515064813 120.19339259153432,23.248377668558113 120.19333542215203,23.24839043486182 120.19338009048761,23.248559955211604 120.19313296599474,23.24861511439731 120.19306754964579,23.24862971539293 120.19323668177861,23.249274100268167 120.19329412581962,23.24923518488289 120.19348003606014,23.249046760341404 120.19359212264854,23.248934031397177 120.1936427943818,23.248883064837568 120.19367633588129,23.248831833185495 120.193806216409,23.248632016060366 120.19387406012318,23.24854552930211 120.19394144578129,23.24841532071637 120.19392146999544,23.248366797049552</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.20">
+                <name>A_A01.20</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;禾迅一號股份有限公司籌備處&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;宅子港段163-297地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1869&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;變更為共同升壓站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;核准&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;72
+裝置容量(90.38)&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營P/S~學甲S/S一路&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RMK&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;承諾共用容量為10MW&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.19467641175835</longitude>
+                    <latitude>23.248727396594845</latitude>
+                    <altitude>136.22306897754467</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>110.07538486135921</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.19463402853475,23.248699845625246</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.19486321241192,23.24841470227714 120.19425881964942,23.24884477812741 120.19434229259615,23.249040089808737 120.19509400582547,23.248463142717743 120.19486321241192,23.24841470227714</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.21">
+                <name>A_A01.21</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;非都容許&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;恩富資本太陽能股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;草坔段1159地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;645&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;開關站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11/1補件，審查中&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;100&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲S/S~佳里S/S線&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.1917216519549</longitude>
+                    <latitude>23.221656184646406</latitude>
+                    <altitude>121.775861984609</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>98.40128383092903</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.19172177338945,23.221656373804358</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.191761355016,23.22207623693048 120.19187297057036,23.221258326639116 120.19168254901533,23.22123613221755 120.19157033429137,23.22205393549214 120.191761355016,23.22207623693048</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="A_A01.22">
+                <name>A_A01.22</name>
+                <description>&lt;h4&gt;A_A01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid_1&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;22&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;非都容許&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;APPL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;恩富資本太陽能股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;DIST&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PRCL&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;大灣段23地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;504.7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;開關站&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;STAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12/27送修正意見，未補正&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;44.33&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CONN&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;台電學甲S/S~佳里S/S二路之18號&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.19013420274703</longitude>
+                    <latitude>23.220444979995378</latitude>
+                    <altitude>113.65815638630717</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>91.84175192028341</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff232323</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffb77d98</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.19013359803444,23.220442747974094</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.19021292411111,23.22004667962704 120.190109711315,23.220038389548044 120.19005548186232,23.220839528214732 120.19010586505185,23.22084744598175 120.19015574450755,23.220851570403514 120.19021292411111,23.22004667962704</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

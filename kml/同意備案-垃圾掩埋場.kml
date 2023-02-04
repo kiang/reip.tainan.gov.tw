@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:GHB023M001</name>
+            <LookAt>
+                <longitude>120.21610343924382</longitude>
+                <latitude>23.21657419898817</latitude>
+                <altitude>60419.39169549976</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>48822.03758797757</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="GHB023M001.fid--31de47d6_18601cf9d5b_-4fe2">
+                <name>GHB023M001.fid--31de47d6_18601cf9d5b_-4fe2</name>
+                <description>&lt;h4&gt;GHB023M001&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;T000002257&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002002&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;001&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002003&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;佳里區&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;F000015243&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019003&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;地面型&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019006&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;昱鼎能源科技開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB023022&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;設置於已封閉或復育中公有掩埋場之地面型設備申請案&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.17616703021315</longitude>
+                    <latitude>23.14002245526929</latitude>
+                    <altitude>103.51316531884399</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>83.64406701604636</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <PolyStyle>
+                        <color>ff808080</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.176170881233,23.140007605224223</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.17641424583505,23.139734563619722 120.17639540672114,23.140322096699027 120.17601896501887,23.140267644115465 120.1760129932587,23.1402585769095 120.1759198156963,23.14024339585112 120.17593539830686,23.139722813454128 120.17641424583505,23.139734563619722</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="GHB023M001.fid--31de47d6_18601cf9d5b_-4fe1">
+                <name>GHB023M001.fid--31de47d6_18601cf9d5b_-4fe1</name>
+                <description>&lt;h4&gt;GHB023M001&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;T000002257&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002002&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;002&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002003&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;佳里區&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;F000015243&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019003&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;地面型&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019006&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;昱鼎能源科技開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB023022&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;設置於已封閉或復育中公有掩埋場之地面型設備申請案&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.17655463567316</longitude>
+                    <latitude>23.140050319333795</latitude>
+                    <altitude>95.78982553561485</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>77.4032033691252</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <PolyStyle>
+                        <color>ff808080</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.17655611384446,23.140041560484597</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.1767138653752,23.139742255423577 120.17669499280548,23.140366074887957 120.17639540672114,23.140322096699027 120.17641424583505,23.139734563619722 120.1767138653752,23.139742255423577</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="GHB023M001.fid--31de47d6_18601cf9d5b_-4fe0">
+                <name>GHB023M001.fid--31de47d6_18601cf9d5b_-4fe0</name>
+                <description>&lt;h4&gt;GHB023M001&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;T000003559&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002002&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;001&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB002003&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;後壁區&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019001&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;F000017144&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019003&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;地面型&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB019006&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;昱鼎能源科技開發股份有限公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GHB023022&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;設置於已封閉或復育中公有掩埋場之地面型設備申請案&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.35859650782663</longitude>
+                    <latitude>23.390164511631482</latitude>
+                    <altitude>648.2980784466855</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>523.8588517019975</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <PolyStyle>
+                        <color>ff808080</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.35869158061375,23.38990027880863</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.35839384261635,23.387862119241618 120.35851324873511,23.38806639937684 120.35853592120111,23.388112079701386 120.35858656765777,23.388198291067965 120.3589711978857,23.38917526276782 120.35898838099092,23.389466088148765 120.35898802685443,23.389466086437533 120.35902694563265,23.389888358069584 120.35896283446345,23.39025348308496 120.35907261219108,23.390757374698296 120.35911417074385,23.391295078326948 120.35913886936032,23.39160387055017 120.35908388561802,23.391765923588537 120.35884582923609,23.392462351708673 120.35884216069826,23.392466902150773 120.35860256635351,23.39235810970422 120.35864899799344,23.392265755333938 120.35865979801747,23.392241143039428 120.35868128726725,23.392099564196542 120.35875774922897,23.39187857543584 120.3587659180339,23.39187623106409 120.35878455187776,23.391740694176406 120.35878260698519,23.391697297804058 120.35877396896831,23.391577725298703 120.358781253919,23.391431730939075 120.35877137738862,23.391272846609354 120.35866124177119,23.390691822976805 120.3586945568386,23.39065119647421 120.358511191851,23.390061453101225 120.35850296349963,23.390024893917143 120.35847092725453,23.389957047067583 120.3584144814522,23.389776416355744 120.3584013574,23.389741783379577 120.3583881984814,23.38970624783542 120.35832988886978,23.3895513281459 120.35832714670687,23.389518417418003 120.3583235979604,23.389489183784463 120.35839936436969,23.389466347754933 120.35839724124526,23.389452826580964 120.3584037720191,23.389452834282714 120.35839384989231,23.389303443254903 120.35835984104779,23.389303480507806 120.35826973969233,23.388992738444358 120.35831475516898,23.388949368847534 120.3582027485536,23.388602983555757 120.35815351130441,23.388380950898863 120.35805416514631,23.388267838628963 120.35809390759096,23.38807980855927 120.35808555490803,23.38803955516778 120.35824738285737,23.387924020411447 120.35839384261635,23.387862119241618</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

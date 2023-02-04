@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:A22401</name>
+            <LookAt>
+                <longitude>120.19630304553358</longitude>
+                <latitude>23.611450812283593</latitude>
+                <altitude>635645.3365418933</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>513634.7725854785</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="A22401.41">
+                <name>布袋人工魚礁禁漁區</name>
+                <description>&lt;h4&gt;A22401&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OBJECTID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;44&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;COUNTYNAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;嘉義縣&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;REEFNAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;布袋人工魚礁禁漁區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVGDEPTH&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;30M&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;PROCALAMAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1989/2/16&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;COVERAGE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;以中心位置經緯度為中心半徑0.5浬範圍內&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CENTROID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;N23°24'18",E119°59'36"&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CENTERLON&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;119.9933333&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CENTERLAT&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23.405&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Shape_Leng&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.05473096598&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Shape_Area&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.3762942E-4&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>119.99333272776363</longitude>
+                    <latitude>23.405000256594462</latitude>
+                    <altitude>3245.13837290058</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>2622.242018231726</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>ff000000</color>
+                        <scale>2.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffffb273</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>119.99333330000007,23.40500006179439</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>119.99333330000002,23.413361191000035 119.99416925000003,23.413325522000036 119.99499806600011,23.41321881700003 119.99581267600001,23.413041989000078 119.99660612900004,23.41279654500005 119.99737165500005,23.41248458000007 119.99810272200011,23.412108756000066 119.99879309000005,23.41167228000006 119.99943687100006,23.411178877000054 120.00002857100003,23.41063275600004 120.00056314200003,23.410038577000023 120.00103602400009,23.409401411000033 120.00144318200012,23.408726694000052 120.001781144,23.408020183000076 120.00204702600001,23.407287907000068 120.0022385630001,23.406536112000026 120.00235412000006,23.405771213000037 120.00239271400005,23.404999737000026 120.00235401600003,23.404228266000075 120.00223835700001,23.403463380000062 120.0020467270001,23.40271160700007 120.00178076000009,23.40197935900005 120.00144272800003,23.401272883000047 120.00103551400002,23.40059820700003 120.00056259500002,23.39996108500003 120.00002800400011,23.399366953000026 119.99943630400003,23.398820880000073 119.99879254300004,23.398327523000034 119.99810221200005,23.397891092000066 119.99737120100008,23.397515309000028 119.99660574600011,23.397203379000075 119.9958123770001,23.396957964000023 119.99499786000001,23.39678115600003 119.99416914500011,23.396674465000046 119.99333330000002,23.396638800000062 119.99249745500003,23.396674465000046 119.99166874000002,23.39678115600003 119.99085422300004,23.396957964000023 119.99006085400003,23.397203379000075 119.98929539900007,23.397515309000028 119.9885643880001,23.397891092000066 119.98787405700011,23.398327523000034 119.987230296,23.398820880000073 119.98663859600003,23.399366953000026 119.98610400500002,23.39996108500003 119.98563108600001,23.40059820700003 119.985223872,23.401272883000047 119.98488584000006,23.40197935900005 119.98461987300004,23.40271160700007 119.98442824300002,23.403463380000062 119.98431258400001,23.404228266000075 119.9842738860001,23.404999737000026 119.98431248000009,23.405771213000037 119.98442803700004,23.406536112000026 119.98461957400002,23.407287907000068 119.98488545600003,23.408020183000076 119.98522341800003,23.408726694000052 119.98563057600006,23.409401411000033 119.98610345800012,23.410038577000023 119.986638029,23.41063275600004 119.98722972900009,23.411178877000054 119.9878735100001,23.41167228000006 119.98856387800004,23.412108756000066 119.9892949450001,23.41248458000007 119.9900604710001,23.41279654500005 119.99085392400002,23.413041989000078 119.99166853400004,23.41321881700003 119.99249735000001,23.413325522000036 119.99333330000002,23.413361191000035</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

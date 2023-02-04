@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:A_F01</name>
+            <LookAt>
+                <longitude>120.31150457290721</longitude>
+                <latitude>23.13509185626843</latitude>
+                <altitude>76682.5798665462</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>61963.546661567285</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="A_F01.1">
+                <name>A_F01.1</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新塭&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0001&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.17156146467461</longitude>
+                    <latitude>23.321292232154676</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.17156146467461,23.321292232154672</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.2">
+                <name>A_F01.2</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;永華&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0002&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.12405802121987</longitude>
+                    <latitude>23.26452079357219</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.12405802121987,23.264520793572196</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.3">
+                <name>A_F01.3</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;北門&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;R/S&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_161&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;260&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RMK&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;預計113.10完成，已扣除能源局預定核定
+共同升壓站容量740MW&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0003&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.1701806263268</longitude>
+                    <latitude>23.261043826987063</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.1701806263268,23.26104382698708</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.4">
+                <name>A_F01.4</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;學甲&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0004&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.19244469549935</longitude>
+                    <latitude>23.24715894841721</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.19244469549935,23.247158948417205</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.5">
+                <name>A_F01.5</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;麻豆&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;180&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0006&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.24800739597359</longitude>
+                    <latitude>23.177193914310095</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.24800739597359,23.177193914310106</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.6">
+                <name>A_F01.6</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;隆田&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;130&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0007&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.31742370934586</longitude>
+                    <latitude>23.195885927934512</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.31742370934586,23.19588592793451</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.7">
+                <name>A_F01.7</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;官田&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;80&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0008&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.32147383309405</longitude>
+                    <latitude>23.21257713715096</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.32147383309405,23.212577137150955</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.8">
+                <name>A_F01.8</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新西&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0009&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.28179615330862</longitude>
+                    <latitude>23.30155770437827</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.28179615330862,23.301557704378254</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.9">
+                <name>A_F01.9</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P/S&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_161&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;300&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;180&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0010&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.29744162853495</longitude>
+                    <latitude>23.30113326220794</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.29744162853495,23.301133262207948</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.10">
+                <name>A_F01.10</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;新東&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;130&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0011&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.33641806268818</longitude>
+                    <latitude>23.322718046122034</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.33641806268818,23.322718046122038</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.11">
+                <name>A_F01.11</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;柳營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D/S&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_161&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;300&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0012&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.34387547273779</longitude>
+                    <latitude>23.290184106973044</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.34387547273779,23.290184106973047</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.12">
+                <name>A_F01.12</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;白河&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;100&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0013&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.40967470073332</longitude>
+                    <latitude>23.34944452555132</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.40967470073332,23.349444525551313</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.13">
+                <name>A_F01.13</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;善化&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;200&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0014&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.30366038156119</longitude>
+                    <latitude>23.130843461460813</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.30366038156119,23.130843461460817</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.14">
+                <name>A_F01.14</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;15&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;南科&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;E/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;無此電壓層級&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0015&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.27111214813783</longitude>
+                    <latitude>23.123816316327208</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.27111214813783,23.123816316327215</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.32">
+                <name>A_F01.32</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;36&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;下營&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D/S&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_161&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;300&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0036&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.2751984271111</longitude>
+                    <latitude>23.24943979939738</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.2751984271111,23.249439799397386</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.33">
+                <name>A_F01.33</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;37&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;將軍&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/Y&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_161&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;50&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;無此電壓層級&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RMK&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;加強電力網113年12月完成再增加1000MW&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0037&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.11839576548509</longitude>
+                    <latitude>23.187116648840032</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.11839576548509,23.187116648840036</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="A_F01.40">
+                <name>A_F01.40</name>
+                <description>&lt;h4&gt;A_F01&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;fid&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;44&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;佳里&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;TYPE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S/S&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CAP_69&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;已趨上限容量&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;RMK&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.69kV麻豆~佳里系統連絡線，經工程單位勘查可有條件同意T接，可併容量約100MW。&#13;
+2.執行中69kV麻豆~佳里第二回線新建工程，預計112年12月完成，可供佳里區域再增約80MW併網量引入麻豆系統。&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ALIAS&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;SS0044&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.1850865228461</longitude>
+                    <latitude>23.16554896577145</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/point?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.1850865228461,23.165548965771443</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

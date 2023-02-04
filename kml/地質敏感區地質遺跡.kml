@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:A217</name>
+            <LookAt>
+                <longitude>120.70950249910824</longitude>
+                <latitude>23.90363772546489</latitude>
+                <altitude>468505.6366705503</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>378577.1283329993</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="A217.16">
+                <name>高雄市高中枕狀熔岩</name>
+                <description>&lt;h4&gt;A217&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AREA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;NAME&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;高雄市高中枕狀熔岩&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;FID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;H0012&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.7063214074718</longitude>
+                    <latitude>23.11893821703636</latitude>
+                    <altitude>490.4400949836377</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>396.3013211489499</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>ff000000</color>
+                        <scale>2.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff010000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffbeffff</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.70630936305876,23.11889514698376</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+                                <tessellate>1</tessellate>
+                                <coordinates>120.70563083192422,23.11793679194331 120.70518433982699,23.117929116139432 120.70472439084675,23.11810121969945 120.70490557877321,23.11856691348228 120.70502875242144,23.118706995646914 120.70538169356291,23.118884545369312 120.70547745428486,23.118937534497427 120.70558115802142,23.118994918835444 120.70575119410756,23.119089008762476 120.70730231284935,23.119947301858645 120.7078013459853,23.11981386969144 120.70791844811309,23.11940205788088 120.70639257375151,23.118415731379436 120.70629907243675,23.11835529109861 120.70615355288275,23.118261225498983 120.70611626978581,23.118234857915194 120.70572882237832,23.11796083443202 120.70563083192422,23.11793679194331</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

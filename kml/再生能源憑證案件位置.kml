@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>120.33920904459899</longitude>
+            <latitude>23.27927270583406</latitude>
+            <altitude>166624.26878280655</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>134641.14889772012</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>GHB:GCL</name>
+            <LookAt>
+                <longitude>120.25569387699917</longitude>
+                <latitude>23.103137231745364</latitude>
+                <altitude>45327.693493612285</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>36627.15385607393</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="GCL.8">
+                <name>GCL.8</name>
+                <description>&lt;h4&gt;GCL&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OBJECTID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;43&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;公司名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;財團法人工業技術研究院-六甲院區&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;能源&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;太陽能&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地址&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;臺南市六甲區工研路8號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;設備容量&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;410.78 kW&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;已交易張數&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;剩餘張數&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;117&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;X&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120.37091&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Y&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23.229253&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.3709100000001</longitude>
+                    <latitude>23.22925300000003</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.5</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/GHB/GCL?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.3709100000001,23.22925300000003</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="GCL.9">
+                <name>GCL.9</name>
+                <description>&lt;h4&gt;GCL&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OBJECTID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;公司名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;第一商業銀行(股)公司麻豆分公司&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;能源&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;太陽能&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地址&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;臺南市麻豆區興中路12號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;設備容量&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13.2 kW&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;已交易張數&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;剩餘張數&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;X&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120.248781&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Y&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23.183917&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.24878100000001</longitude>
+                    <latitude>23.183917000000065</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.5</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/GHB/GCL?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.24878100000001,23.183917000000065</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="GCL.14">
+                <name>GCL.14</name>
+                <description>&lt;h4&gt;GCL&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OBJECTID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;85&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;公司名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;台灣積體電路製造股份有限公司F14P5滯洪池太陽能二期&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;能源&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;太陽能&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地址&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;臺南市善化區臺南市善化區善科段157地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;設備容量&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;434 kW&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;已交易張數&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;剩餘張數&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;X&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120.272255&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Y&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23.11501&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.27225500000009</longitude>
+                    <latitude>23.11501000000004</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.5</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/GHB/GCL?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.27225500000009,23.11501000000004</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="GCL.16">
+                <name>GCL.16</name>
+                <description>&lt;h4&gt;GCL&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OBJECTID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;16&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;95&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;公司名稱&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;台灣積體電路製造股份有限公司F14P5滯洪池太陽能一期&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;能源&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;太陽能&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;地址&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;臺南市善化區臺南市善化區善科段157地號&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;設備容量&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;434 kW&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;已交易張數&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;剩餘張數&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;34&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;X&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120.272255&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Y&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23.11501&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.27225500000009</longitude>
+                    <latitude>23.11501000000004</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.5</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>https://reip.tainan.gov.tw/geoserver/kml/icon/GHB/GCL?0.0.0=</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.27225500000009,23.11501000000004</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
