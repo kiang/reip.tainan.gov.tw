@@ -57,7 +57,7 @@ function ringArea($coordinates)
     return $area * 6378137 * 6378137 / 2;
 }
 
-$area = [];
+$area = $adminAreas = [];
 foreach ($layers as $layer => $keys) {
     $kml = simplexml_load_file(__DIR__ . '/kml/' . $layer . '.kml');
     $json = json_decode(json_encode($kml), true);
@@ -121,11 +121,18 @@ foreach ($layers as $layer => $keys) {
         if (!isset($area[$f['properties']['業者名稱']])) {
             $area[$f['properties']['業者名稱']] = 0.0;
         }
+        if (!isset($data['GHB002003'])) {
+            $data['GHB002003'] = $data['鄉鎮區'];
+        }
+        if (!isset($adminAreas[$data['GHB002003']])) {
+            $adminAreas[$data['GHB002003']] = 0.0;
+        }
         $areaSize = 0;
         foreach ($f['geometry']['coordinates'] as $c) {
             $areaSize += round(abs(ringArea($c)), 0);
         }
         $area[$f['properties']['業者名稱']] += $areaSize;
+        $adminAreas[$data['GHB002003']] += $areaSize;
 
         $fc['features'][] = $f;
     }
@@ -133,6 +140,12 @@ foreach ($layers as $layer => $keys) {
     $oFh = fopen(__DIR__ . '/csv/' . $layer . '.csv', 'w');
     fputcsv($oFh, ['業者名稱', '面積(公頃)']);
     foreach ($area as $k => $v) {
+        fputcsv($oFh, [$k, round($v / 10000, 2)]);
+    }
+
+    $oFh = fopen(__DIR__ . '/csv/' . $layer . '_areas.csv', 'w');
+    fputcsv($oFh, ['Area', '面積(公頃)']);
+    foreach ($adminAreas as $k => $v) {
         fputcsv($oFh, [$k, round($v / 10000, 2)]);
     }
     file_put_contents(__DIR__ . '/json/' . $layer . '.json', json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
