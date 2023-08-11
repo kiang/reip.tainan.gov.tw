@@ -4,9 +4,16 @@ geo server doc - http://docs.geoserver.org/latest/en/user/services/wfs/index.htm
 layer list - https://reip.tainan.gov.tw/GHD/ProxyPage/proxy.jsp?https://reip.tainan.gov.tw/geoserver/ows?service=wfs&version=1.0.0&request=GetCapabilities
 */
 
+$context = stream_context_create([
+  'ssl' => [
+    'verify_peer' => false,
+    'verify_peer_name' => false,
+  ]
+]);
+
 $layerFile = __DIR__ . '/layers.json';
 $xml = simplexml_load_file('https://reip.tainan.gov.tw/GHD/ProxyPage/proxy.jsp?https://reip.tainan.gov.tw/geoserver/ows?service=wfs&version=1.0.0&request=GetCapabilities');
-file_put_contents($layerFile, json_encode($xml, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+file_put_contents($layerFile, json_encode($xml, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE), 0, $context);
 $layers = json_decode(file_get_contents($layerFile), true);
 
 $jsonPath = __DIR__ . '/kml';
@@ -22,7 +29,7 @@ foreach ($layers['FeatureTypeList']['FeatureType'] as $ft) {
   $ft['Abstract'] = str_replace("\n", '_', $ft['Abstract']);
   $targetFile = $jsonPath . '/' . $ft['Abstract'] . '.kml';
 
-  file_put_contents($targetFile, file_get_contents($baseUrl . urlencode($ft['Name'])));
+  file_put_contents($targetFile, file_get_contents($baseUrl . urlencode($ft['Name'])), 0, $context);
   if (filesize($targetFile) === 0) {
     unlink($targetFile);
   }
